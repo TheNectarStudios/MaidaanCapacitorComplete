@@ -1,0 +1,46 @@
+.ticker-wrapper {
+  overflow: hidden;
+  white-space: nowrap;
+  width: 100%; /* Default width for smaller screens */
+  height: 100px;
+}
+
+@media (min-width: 760px) {
+  .ticker-wrapper {
+    width: 80%; /* Apply 80% width for screens wider than 1024px */
+  }
+}
+
+
+.ticker {
+  will-change: transform;
+  display: inline-block;
+  animation: ticker-scroll 30s linear infinite;
+  transform: translateX(0%);
+}
+
+.ticker-item {
+  will-change: transform;
+  display: inline-block;
+  padding: 0 30px;
+  height: 100px;
+}
+
+.ticker-img {
+  height: 100%;
+  max-width: 100px;
+  object-fit: contain;
+}
+
+@keyframes ticker-scroll {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+
+  /* 50% {
+    transform: translateX(50%);
+  } */
+}

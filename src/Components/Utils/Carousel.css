@@ -1,0 +1,26 @@
+.custom-arrow {
+    position: absolute !important;
+    z-index: 1;
+    border: 1px solid #3a3a3a;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 6px;
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+.left-arrow {
+    left: 4px;
+    transform: rotate(135deg);
+}
+
+.right-arrow {
+    right: 4px;
+    transform: rotate(-45deg);
+}
+.react-multiple-carousel__arrow {
+    background: #00000063;
+}
+.react-multiple-carousel__arrow--left {
+    display: none;
+}

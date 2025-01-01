@@ -1,0 +1,106 @@
+h1 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.timer-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.timer {
+  /* font-family: "Montserrat"; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.text {
+  color: #aaa;
+  font-weight: 500;
+}
+.title {
+  font-size: 14px;
+  font-weight: 600;
+}
+.value {
+  font-size: 35px;
+  font-weight: 600;
+  /* font-family: "Montserrat", sans-serif; */
+  line-height: 100%;
+}
+.info {
+  max-width: 360px;
+  margin: 40px auto 0;
+  text-align: center;
+  font-size: 16px;
+}
+
+.register-success .MuiPaper-root.MuiDialog-paper {
+  padding: 0 !important;
+}
+
+.address-popup .MuiPaper-root.MuiDialog-paper {
+  width: 100vw !important;
+  max-width: 500px;
+  height: auto !important;
+  max-height: 700px;
+  padding: 0 !important;
+  margin: 12px !important;
+}
+
+.scoreCard.MuiPaper-root.MuiDialog-paper {
+  padding: 0 !important;
+}
+.MuiPaper-root.MuiDialog-paper {
+  background-color: #7f7f7f !important;
+  padding: 15px !important;
+  width: calc(100% - 30px);
+}
+.scoreCard div .MuiPaper-root {
+  background-color: white !important;
+  color: black !important;
+  margin: 5px !important;
+  padding: 0 !important;
+}
+.scoreCard div .MuiPaper-root .popupMessage,
+.scoreCard div .MuiPaper-root .popupTitle {
+  color: black !important;
+  margin: 0 !important;
+}
+.startTrail {
+  width: fit-content;
+  margin: auto !important;
+  font-size: 16px !important;
+  padding: 5px 20px !important;
+  border-radius: 10px !important;
+  color: #7f7f7f !important;
+  font-style: italic;
+  text-transform: none !important;
+}
+.startTrail.prompt {
+  width: 90%;
+}
+.shareBtn {
+  color: black !important;
+  font-size: 12px !important;
+  width: fit-content;
+  padding: 5px 12px !important;
+  border-radius: 15px !important;
+  border-radius: 1px solid black;
+  line-height: 140% !important;
+  font-style: italic;
+  font-weight: 700 !important;
+  padding: 13px !important;
+  max-width: fit-content;
+  box-shadow: 5px 5px 7px #80808094 !important;
+  margin-top: 25%;
+  white-space: normal !important;
+  font-size: calc(0.5vw + 8px) !important;
+}
+.submitBtn {
+  box-shadow: none !important;
+  font-weight: 900 !important;
+  font-size: 3vh !important;
+  line-height: 100% !important;
+}

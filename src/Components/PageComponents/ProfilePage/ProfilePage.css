@@ -1,0 +1,54 @@
+.profile-PageMain{
+    width: 100%;
+    min-height: 88vh;
+    background-color: #7F7F7F;
+}
+.profilePage-inner{
+    max-width: 700px;
+    margin: auto;
+}
+.pageTitle{
+    width: 100%;
+    font-size: 18px;
+    text-align: center;
+    margin: 20px 0;
+    color: #CCF900;
+}
+.pageSubtitle{
+    color: white;
+    font-size: calc(0.5vw + 14px);
+    padding: 0 calc(0.5vw + 13px);
+}
+.inputContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+    margin:  25px calc(0.5vw + 13px);
+}
+.inputBoxProfile{
+    outline: none;
+    border: 0;
+    border-radius: 0;
+    font-size: calc(0.5vw + 10px);
+    padding: calc(0.25vw + 5px);
+}
+.inputBoxlabel{
+    color: #CCF900;
+}
+.submit-btn{
+    width: 30%;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #7F7F7F;
+    background-color: #CCF900;
+    outline: none;
+    border: 0;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 10px auto;
+    left: 50%;
+    position: relative;
+    transform: translateX(-50%);
+}

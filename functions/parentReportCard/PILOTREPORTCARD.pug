@@ -1,0 +1,260 @@
+doctype html
+html(lang="en", style="height: 100%; width: 100%;")
+  head
+    meta(charset="UTF-8")
+    meta(name="viewport", content="width=device-width, initial-scale=1.0")
+    title Certificate
+    link(rel="preload", href="https://fonts.googleapis.com/css2?family=Grandstander:wght@400;700&display=swap" as="style")
+    link(rel="stylesheet", href="https://fonts.googleapis.com/css2?family=Grandstander:wght@400;700&display=swap")
+    link(rel="stylesheet", href="https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap")
+    link(rel="stylesheet", href="https://fonts.googleapis.com/css2?family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap")
+  body(style="margin: 0; padding: 0; margin-bottom: 0.8cm; ; font-family: 'Grandstander'; height: 100%; width: 100%;")
+    div(style="width: 100%; height: 100%; position: relative;")
+      img(alt="bg-img", src=backgroundImg, style="position: absolute; z-index: -1; inset: 0; height: 100%; width: 100%;")
+      div(style="position: absolute; top: 76px; left: 88px; display: flex; flex-direction: column; gap: 15px; font-family: 'Grandstander';")
+        div(style="background-color: rgba(255, 255, 255, 0); margin: 0;")
+          h3(style="font-weight: bold; font-size: 44px; margin: 0;") #{tournamentData.userName}
+        div(style="background-color: rgba(255, 255, 255, 0); margin: 0;")
+          h3(style="font-weight: normal;font-size: 36px; margin: 0;") Tournament Summary
+        //- //- display comma separated topics of the tournament
+        //- div(style="background-color: rgba(255, 255, 255, 0); margin: 0;")
+        //-   h3(style="font-weight: normal;font-size: 36px; margin: 0;") Topics : #{tournamentData.topics.join(', ')}
+      div(style="position: absolute; top: 197px; display: flex; flex-direction: column; align-items: center; font-size: 32px; width: 1080px;")
+        div(style="display: flex; flex-direction: row; align-items: center; justify-content: start; font-size: 24px; color: #353887; gap: 60px; margin-left: -20px;margin-top: 10px;")
+          div(style="display: flex; flex-direction: column; align-items: start; justify-content: center; width: 400px; height: 373px; gap: 16px;")
+            span(style="font-size: 32px;color: #3A3A3A;; font-weight: bold")
+              | #{tournamentData.dateRange}
+            span(style="font-size: 32px;color: #3A3A3A;")
+              | #{tournamentData.subject}
+            span(style="font-size: 28px;color: #3A3A3A;")
+              | Topics  : #{tournamentData.topics.join(', ')}
+            div(style="position: relative;margin-top: 20px;")
+              img(src=rankCircleImgPilot alt="Image description" style="width: 364px; height: 176px;")
+              div(style="position: absolute; top: 85px; left: 190px;")
+                div(style="display: flex; flex-direction: column; align-items: start; justify-content: start; width: 180px; height: 68px;")
+                  span(style="font-size: 26px; font-weight: bold; color: #F7CE59;") #{pilotTournamentCircleData.primary}
+                    //- span(style="font-size: 20px; color: #353887;") #{rankCircleData.sectionTwo}
+            //- if rankCircleData.rank != 0
+            //-   div(style="position: relative;margin-top: 20px;")
+            //-     img(src=rankCircleImg alt="Image description" style="width: 364px; height: 176px;")
+            //-     div(style="position: absolute; top: 25px; left: 200px;")
+            //-       div(style="display: flex; flex-direction: column; align-items: start; justify-content: start; width: 180px; height: 68px;")
+            //-         span(style="font-size: 32px; font-weight: bold; color: #FFD340;") #{rankCircleData.rank}
+            //-         span(style="font-size: 20px; color: #FFD340;") #{rankCircleData.sectionOne}
+            //-     div(style="position: absolute; top: 100px; left: 200px;")
+            //-       div(style="display: flex; flex-direction: column; align-items: start; justify-content: start; width: 180px; height: 68px;")
+            //-         span(style="font-size: 32px; font-weight: bold; color: #353887;") #{rankCircleData.participants}
+            //-         span(style="font-size: 20px; color: #353887;") #{rankCircleData.sectionTwo}
+            //-else
+              div(style="position: relative;margin-top: 20px;")
+                img(src=rankCircleImg2 alt="Image description" style="width: 364px; height: 176px;")
+                div(style="position: absolute; top: 70px; left: 200px;")
+                  div(style="display: flex; flex-direction: column; align-items: start; justify-content: start; width: 180px; height: 68px;")
+                    span(style="font-size: 32px; font-weight: bold; color: #353887;") #{rankCircleData.participants}
+                    span(style="font-size: 20px; color: #353887;") #{rankCircleData.sectionTwo}
+          
+          div(style="display: flex; flex-direction: column; align-items: start; justify-content: center; width: 400px; height: 373px; gap: 16px;")
+            span(style="font-size: 32px;color: #3A3A3A;; font-weight: bold")
+              | #{tournamentDataTwo.dateRange}
+            span(style="font-size: 32px;color: #3A3A3A;")
+              | #{tournamentDataTwo.subject}
+            span(style="font-size: 28px;color: #3A3A3A;")
+              | Topics  : #{tournamentDataTwo.topics.join(', ')}
+
+            div(style="position: relative;margin-top: 20px;")
+              img(src=rankCircleImgPilot alt="Image description" style="width: 364px; height: 176px;")
+              div(style="position: absolute; top: 85px; left: 190px;")
+                div(style="display: flex; flex-direction: column; align-items: start; justify-content: start; width: 180px; height: 68px;")
+                  span(style="font-size: 26px; font-weight: bold; color: #F7CE59;") #{pilotTournamentCircleData.secondary}
+            //- if rankCircleDataTwo.rank != 0
+            //-   div(style="position: relative;margin-top: 20px;")
+            //-     img(src=rankCircleImg alt="Image description" style="width: 364px; height: 176px;")
+            //-     div(style="position: absolute; top: 25px; left: 200px;")
+            //-       div(style="display: flex; flex-direction: column; align-items: start; justify-content: start; width: 180px; height: 68px;")
+            //-         span(style="font-size: 32px; font-weight: bold; color: #FFD340;") #{rankCircleDataTwo.rank}
+            //-         span(style="font-size: 20px; color: #FFD340;") #{rankCircleDataTwo.sectionOne}
+            //-     div(style="position: absolute; top: 100px; left: 200px;")
+            //-       div(style="display: flex; flex-direction: column; align-items: start; justify-content: start; width: 180px; height: 68px;")
+            //-         span(style="font-size: 32px; font-weight: bold; color: #353887;") #{rankCircleDataTwo.participants}
+            //-         span(style="font-size: 20px; color: #353887;") #{rankCircleDataTwo.sectionTwo}
+            //- else
+            //-   div(style="position: relative;margin-top: 20px;")
+            //-     img(src=rankCircleImg2 alt="Image description" style="width: 364px; height: 176px;")
+            //-     div(style="position: absolute; top: 70px; left: 200px;")
+            //-       div(style="display: flex; flex-direction: column; align-items: start; justify-content: start; width: 180px; height: 68px;")
+            //-         span(style="font-size: 32px; font-weight: bold; color: #353887;") #{rankCircleData.participants}
+            //-         span(style="font-size: 20px; color: #353887;") #{rankCircleData.sectionTwo}
+          //- if rankCircleData2.rank != 0
+          //-   div(style="position: relative;margin-top: 20px;")
+          //-     img(src=rankCircleImg alt="Image description" style="width: 364px; height: 176px;")
+          //-     div(style="position: absolute; top: 25px; left: 200px;")
+          //-       div(style="display: flex; flex-direction: column; align-items: start; justify-content: start; width: 180px; height: 68px;")
+          //-         span(style="font-size: 32px; font-weight: bold; color: #FFD340;") #{rankCircleData2.rank}
+          //-         span(style="font-size: 20px; color: #FFD340;") #{rankCircleData2.sectionOne}
+          //-     div(style="position: absolute; top: 100px; left: 200px;")
+          //-       div(style="display: flex; flex-direction: column; align-items: start; justify-content: start; width: 180px; height: 68px;")
+          //-         span(style="font-size: 32px; font-weight: bold; color: #353887;") #{rankCircleData2.participants}
+          //-         span(style="font-size: 20px; color: #353887;") #{rankCircleData2.sectionTwo}
+          //- else
+          //-   div(style="position: relative;margin-top: 20px;")
+          //-     img(src=rankCircleImg2 alt="Image description" style="width: 364px; height: 176px;")
+          //-     div(style="position: absolute; top: 70px; left: 200px;")
+          //-       div(style="display: flex; flex-direction: column; align-items: start; justify-content: start; width: 180px; height: 68px;")
+          //-         span(style="font-size: 32px; font-weight: bold; color: #353887;") #{rankCircleData2.participants}
+          //-         span(style="font-size: 20px; color: #353887;") #{rankCircleData2.sectionTwo}
+
+
+          //- div(style="position: relative; margin-right: 40px;")
+          //- img(src=rankCircleImg alt="Image description" style="width: 327px; height: 176px;")
+          //- div(style="position: absolute; top: 20px; left: 230px;")
+          //-   div(style="display: flex; flex-direction: column; align-items: start; justify-content: start; width: 96px; height: 68px;")
+          //-     span(style="font-size: 32px; font-weight: bold; color: #FFD340;") #{rankCircle.rank}
+          //-     span(style="font-size: 20px; color: #FFD340;") #{rankCircle.sectionOne}
+          //- div(style="position: absolute; top: 95px; left: 230px;")
+          //-   div(style="display: flex; flex-direction: column; align-items: start; justify-content: start; width: 96px; height: 68px;")
+          //-     span(style="font-size: 32px; font-weight: bold; color: #353887;") #{rankCircle.participant}
+          //-     span(style="font-size: 20px; color: #353887;") #{rankCircle.sectionTwo}
+          //- div(style="display: flex; flex-direction: column; justify-content: center; align-items: center; font-size:32px; font-weight: bold; color: #353887; margin-left: 40px;")
+          //-   p #{tournamentData.comment}
+      div(style="position: absolute; top: 1040px; left: 84px; display: flex; flex-direction: column; gap: 8px;") 
+        div(style="background-color: #FFD340; width: 457px; height: 73px; display: flex; flex-direction: column; align-items: center; justify-content: center; margin-top: 20px; border-top-left-radius: 25px; border-top-right-radius: 25px;")
+          span(style="font-size: 36px; font-weight: bold; color: #353887; margin-bottom: 10px") Your Standing in #{tournamentData.subject} 
+          
+      div(style="position: absolute; top: 1112px; display: flex; flex-direction: column; gap: 10px; width: 100%;")
+        // Content container for ranks section and progress bar
+        div(style="background-color: #FEFED2; width: 100%; height: 854px; pagradedding: 20px 0; display: flex; flex-direction: column; align-items: center; justify-content: start; margin-top: 20px; border-top-left-radius: 25px; border-top-right-radius: 25px;")
+          // ranks section
+          div(style="position: absolute; top: 0; left: 84px; display: flex; flex-direction: column; gap: 8px;") 
+            div(style="background-color: #353887; width: 131px; height: 44px; display: flex; flex-direction: column; align-items: center; justify-content: center; margin-top: 20px; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px;")
+              span(style="font-size: 28px; font-weight: bold; color: #FFD340;") Grade #{tournamentData.userGrade}
+          div(style="display: flex; justify-content: space-around; background-color: #FEFED2; width: 100%; padding: 20px 0; margin-top: 100px;")
+            each rank in ranks
+              div(style="width: 220px; height: 181px; border: 2px solid #353887; background-color: #353887; display: flex; flex-direction: column; align-items: center; justify-content: flex-start; color: #FCD21C; font-size: 1.2em; border-radius: 10px; position: relative; overflow: hidden;")
+                div(style="width: 217px; height: 88px; background-color: #FEFED2; display: flex; align-items: center; justify-content: center; border-radius: 10px")
+                  span(style="color: #353887;font-size: 56px")= rank.rank 
+                div(style="width: 100%; height: 103px; background-color: #353887; display: flex; align-items: center; justify-content: center;")
+                  span(style="color: #FFD340;font-size: 28px")= rank.name
+          - var totalProgress = progress.tillNow + progress.current
+          - var tillNowPercentage = (progress.tillNow / totalProgress) * 100
+          - var currentPercentage = (progress.current / totalProgress) * 100
+          // Progress bar
+          div(style="display: flex; flex-direction: column; align-items: flex-start; justify-content: space-between; background-color: rgba(50, 50, 50, 0.1); border-radius: 15px; padding: 20px; width: 992px; height: 151px; margin-top: 40px; background-size: cover;")
+            div(style="display: flex;")
+              span(style="font-size: 32px; align-self: flex-start; margin-bottom: 10px;") #{tournamentData.subject} Questions Faced Till Date -&nbsp; 
+              span(style="font-size: 32px; align-self: flex-start; margin-bottom: 10px; font-weight: bold;") #{progress.tillNow + progress.current}
+            //- div(style="display: flex; align-items: center; justify-content: flex-end;width: 95%; padding-left:2% ;padding-right:2%;")
+            //-   span(style="font-size: 28px") This Weekend
+            div(style="display: flex; height: 60px; width: 100%; background-color: #8486E4; border-radius: 25px; overflow: hidden; position: relative; background-size: cover; margin-top: auto;")
+              if !tournamentData.dnpPrimary
+                div(style=`background-color: #9AD2D7; height: 100%; position: relative; width: ${Math.min(tillNowPercentage, 100)}%; border-top-right-radius: 25px; border-bottom-right-radius: 25px;`)
+                  img(src=qstnMarksBachground style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; opacity: 0.5; z-index: 1;")
+                  span(style="position: absolute; font-size: 28px; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 2; font-weight: bold;") #{progress.tillNow}
+                div(style=`background-color: #8486E4; height: 100%; position: relative; width: ${Math.max(currentPercentage,0)}%;`)
+                  img(src=qstnMarksBachground style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; opacity: 0.5; z-index: 1;")
+                //-   span(style="position: absolute; font-size: 28px; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 2; font-weight: bold;") #{progress.current}
+              else
+                span(style="position: absolute; font-size: 28px; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 2; font-weight: bold;") Yet to play a #{tournamentData.subject} tournament
+
+
+
+          
+          //- div(style=`display: flex; flex-direction: column; align-items: flex-start; justify-content: space-between; background-color: rgba(50, 50, 50, 0.1); border-radius: 15px; padding: 20px; width: 992px; height: 151px; margin-top: 60px; background-size: cover;`)
+          //-   span(style="font-size: 32px; align-self: flex-start; margin-bottom: 10px;") #{tournamentData.subject} Questions Faced Till Date
+          //-   div(style=`display: flex; height: 60px; width: 100%; background-color: #4a4a4a; border-radius: 25px; overflow: hidden; position: relative; background-image: url("https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg"); background-size: cover; margin-top: auto;`)
+          //-     div(style=`background-color: #9AD2D7; height: 100%; position: relative; width: ${tillNowPercentage}%; border-top-right-radius: 25px; border-bottom-right-radius: 25px; display: flex; align-items: center;`)
+          //-       span(style="color: white; font-size: 16px; padding-left: 10px;") Till now (#{progress.tillNow})
+          //-     div(style=`background-color: #8486E4; height: 100%; position: relative; width: ${currentPercentage}%; display: flex; align-items: center; justify-content: flex-end;`)
+          //-       span(style="color: white; font-size: 16px; padding-right: 10px;") Current (#{progress.current})
+
+          //- div(style=`display: flex; flex-direction: column; align-items: flex-start; justify-content: space-between; background-color: rgba(50, 50, 50, 0.1); border-radius: 15px; padding: 20px; width: 992px; height: 151px; margin-top: 60px; background-size: cover;`)
+          //-   span(style="font-size: 32px; align-self: flex-start; margin-bottom: 10px;") #{tournamentData.subject} Questions Faced Till Date
+          //-   div(style=`display: flex; height: 60px; width: 100%; background-color: #4a4a4a; border-radius: 25px; overflow: hidden; position: relative; background-image: url("https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg"); background-size: cover; margin-top: auto;`)
+          //-     div(style=`background-color: #9AD2D7; height: 100%; position: relative; width: ${tillNowPercentage}%;`)
+          //-       span(style="position: absolute; color: white; font-size: 16px; top: 50%; transform: translateY(-50%); left: 10px;") Till now (#{progress.tillNow})
+          //-     div(style=`background-color: #8486E4; height: 100%; position: relative; width: ${currentPercentage}%;`)
+          //-       span(style="position: absolute; color: white; font-size: 16px; top: 50%; transform: translateY(-50%); right: 10px;") Current (#{progress.current})
+
+          //- div(style=`display: flex; flex-direction: column; align-items: flex-start; justify-content: space-between; background-color: rgba(50, 50, 50, 0.1); border-radius: 15px; padding: 20px; width: 992px; height: 151px; margin-top: 60px; background-size: cover;`)
+          //-   span(style="font-size: 32px; align-self: flex-start;") #{tournamentData.subject} Questions Faced Till Date
+          //-   div(style=`display: flex; height: 60px; width: 100%; background-color: #4a4a4a; border-radius: 25px; overflow: hidden; position: relative; background-image: url("https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg"); background-size: cover;`)
+          //-     div(style=`background-color: #9AD2D7; height: 100%; position: relative; width: ${tillNowPercentage}%;`)
+          //-       span(style="position: absolute; color: white; font-size: 16px; top: 50%; transform: translateY(-50%); left: 10px;") Till now (#{progress.tillNow})
+          //-     div(style=`background-color: #8486E4; height: 100%; position: relative; width: ${currentPercentage}%;`)
+          //-       span(style="position: absolute; color: white; font-size: 16px; top: 50%; transform: translateY(-50%); right: 10px;") Current (#{progress.current})
+          div(style="margin-top: 90px;")
+            //- Use corrected each loop syntax        
+            if !tournamentData.dnpPrimary
+              div(style="display: flex; gap: 20px;  justify-content: start; align-items: center; width: 100%;")
+                each topic, index in topics
+                  - var cardColor = true ? '#E7EFFF' : '#F7CE59'
+                  - var position = topic.value + '%'
+                  div(style="width: 321px; height: 173px; display: inline-block;")
+                    div(style=`border-radius: 10px; padding: 20px; text-align: left; position: relative; width: 100%; height: 100%; box-sizing: border-box; background-color: ${cardColor};`)
+                      h2(style="margin-left: 10px; position: absolute; top: -10px; left: 10px;")= topic.key
+                      div(style="height: 12px; width: 257px; margin: 50px auto 10px; position: relative; display: flex; transform: translate(-5%, 20%); justify-content: space-between;")
+                        div(style="position: relative; top: 20px; height: 100%; border-radius: 5px; background-color: #6666ff; width: 32%; border-top-left-radius: 10px; border-bottom-left-radius: 10px; border-bottom-right-radius: 5px; border-top-right-radius: 5px; margin-right: -1%;")
+                        div(style="position: relative; top: 20px; height: 100%; border-radius: 5px; background-color: #6666ff; width: 33%; margin-left: -1%; margin-right: -1%;")
+                        div(style="position: relative; top: 20px; height: 100%; border-radius: 5px; background-color: #6666ff; width: 32%; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 5px; border-top-left-radius: 5px; margin-left: -1%;")
+                        if !topic.didNotPlay
+                          div(style=`position: absolute; top: -15px; width: 33px; height: 45px; text-align: center; color: black; font-weight: bold; left: calc(${Math.min(topic.value, 90)}%);`)
+                            img(src=true ? pointerBlue : pointerYellow, alt="pointer", style="width: 100%; height: 100%;")
+                            div(style="position: absolute; top: -10px; left: 50%; transform: translateX(-50%); font-size: 12px; font-weight: normal;") You!
+                      div(style="position: absolute; bottom: 20px; right: -10px; text-align: center; transform: translate(-80%, -250%); font-size: 12px; white-space: pre-wrap; display: flex; flex-direction: column")
+                        span Top
+                        span Rank
+                      div(style="position: absolute; bottom: 15px; left: 50%; transform: translate(900%,-640%);; width: 15px; height: 15px;")
+                        img(src=trophy, alt="pointer", style="width: 100%; height: 100%;")
+                      div(style="position: absolute; bottom: 15px; width: 286px; height: 36px; display: flex; justify-content: center; align-items: center;")
+                        span(style="font-size: 18px; font-weight: normal; text-align: center;") #{topic.comment}
+        div(style="position: absolute; top: 585px; display: flex; flex-direction: column; gap: 10px; width: 100%; margin-top: 10px;")
+          h1(style="margin-left: 78px; font-size: 32px; text-align: left;") Topic-wise Standing
+
+          //- div(style="margin-top: 40px;")
+          //-   <h1 style="margin-left:58px; font-size:32px">Topic-wise </h1>
+          //-   //- Use corrected each loop syntax
+          //-   each topic, index in topics
+          //-     - var cardColor = true ? '#E7EFFF' : '#F7CE59'
+          //-     - var position = topic.value + '%'
+          //-     div(style=`margin-bottom: 40px; width: 321px; height: 173px; display: inline-block; padding: 10px;`)
+          //-       div(style=`border-radius: 10px; padding: 20px; text-align: left; position: relative; width: 100%; height: 100%; box-sizing: border-box; background-color: ${cardColor};`)
+          //-         h2(style="margin-left: 10px; position: absolute; top: -10px; left: 10px;")= topic.key
+          //-         div(style="height: 12px; width: 257px; margin: 50px auto 10px; position: relative; display: flex; transform: translate(-5%, 20%); justify-content: space-between;")
+          //-           div(style="position: relative; top: 20px; height: 100%; border-radius: 5px; background-color: #6666ff; width: 32%; border-top-left-radius: 10px; border-bottom-left-radius: 10px; border-bottom-right-radius: 5px; border-top-right-radius: 5px; margin-right: -1%;")
+          //-           div(style="position: relative; top: 20px; height: 100%; border-radius: 5px; background-color: #6666ff; width: 33%; margin-left: -1%; margin-right: -1%;")
+          //-           div(style="position: relative; top: 20px; height: 100%; border-radius: 5px; background-color: #6666ff; width: 32%; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 5px; border-top-left-radius: 5px; margin-left: -1%;")
+          //-           if !topic.didNotPlay
+          //-             div(style=`position: absolute; top: -15px; width: 33px; height: 45px; text-align: center; color: black; font-weight: bold; left: calc(${position});`)
+          //-               img(src= true ? pointerBlue : pointerYellow, alt="pointer", style="width: 100%; height: 100%;")
+          //-               div(style="position: absolute; top: -10px; left: 50%; transform: translateX(-50%); font-size: 12px; font-weight: normal;") You!
+          //-         div(style="position: absolute; bottom: 20px; right: -10px; text-align: center; transform: translate(-80%, -250%); font-size: 12px; white-space: pre-wrap; display: flex; flex-direction: column")
+          //-           span Top
+          //-           span Rank
+          //-         div(style="position: absolute; bottom: 15px; left: 50%; transform: translate(900%,-640%);; width: 15px; height: 15px;")
+          //-           img(src=trophy, alt="pointer", style="width: 100%; height: 100%;")
+          //-         div(style="position: absolute; bottom: 15px; width: 286px; height: 36px; display: flex; justify-content: center; align-items: center;")
+          //-           span(style="font-size: 18px; font-weight: normal; text-align: center;") #{topic.comment}
+
+                //- div(style="position: absolute; bottom: 15px; width: 186px; height: 36px;")
+                //-   span(style="font-size: 18px; font-weight: normal; text-align: center;") #{topic.comment}
+
+                  //- div(style="margin-top: 40px;") You're in the top #{topic.value}% of all the children  
+      //- div(style="position: absolute; bottom:0; display: flex; flex-direction: column; gap: 10px; width: 100%;")
+      //-   div(style="background-color: #E7EFFF; width: 100%; height: 369px; 0; border-top-left-radius: 25px; border-top-right-radius: 25px;")
+      //-     img(src=devComTransparentImg, alt="", style="position: absolute; left: 660px; bottom: 0; width: 385px; height: 293px;")
+      //-     div(style="display: flex; flex-direction: column; align-items: start; justify-content: center; font-size: 32px; font-weight: bold; color: #353887;")
+      //-       span(style="font-size: 32px; font-weight: bold; width: 600px; color: #353887; margin-bottom: 10px") #{developmentComment}
+
+      div(style="position: absolute; top:692px; display: flex; flex-direction: column; width: 1080px")
+        div(style="background-color: #E7EFFF; width: 1080px; height: 305px; border-top-left-radius: 25px; border-top-right-radius: 25px; position: relative; display: flex; align-items: center;")
+          img(src=devComTransparentImg alt="" style="position: absolute; left: 660px; bottom: 0; width: 385px; height: 293px;")
+          div(style="display: flex; flex-direction: column; align-items: flex-start; justify-content: center; font-size: 32px; font-weight: bold; color: #353887;")
+            span(style="font-size: 32px; font-weight: bold; width: 580px; color: #353887; margin-bottom: 10px; margin-left: 88px") #{developmentComment}
+
+      div(style="position: absolute; top: 627px; left: 84px; display: flex; flex-direction: column;") 
+        div(style="background-color: #FFD340; width: 441px; height: 65px; display: flex; flex-direction: column; align-items: center; justify-content: center; border-top-left-radius: 25px; border-top-right-radius: 25px;")
+          span(style="font-size: 36px; font-weight: bold; color: #353887;") Your Competitive Spirit  
+
+      
+      
+      //- div(style="position: absolute; top: 480px; left: 745px; width: 173px; height: 142px; z-index: 1; color: white; display: flex; flex-direction: column; justify-content: center; align-items: center;")
+      //-   img(alt="signature", src=rewardImage)

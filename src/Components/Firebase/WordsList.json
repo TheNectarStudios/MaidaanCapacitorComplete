@@ -1,0 +1,9861 @@
+[
+	{
+		"Word": "Raise",
+		"related": [
+			"elevate",
+			"uplift",
+			"hoist"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "Constrict",
+		"related": [
+			"Tighten",
+			"Compress",
+			"Squeeze"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "Occasion",
+		"related": [
+			"Instance",
+			"Moment",
+			"Event"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "Vacuum",
+		"related": [
+			"Void",
+			"Emptiness",
+			"Nothingness"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "Accessory",
+		"related": [
+			"Attachment",
+			"Extra",
+			"Addition"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "Accommodate",
+		"related": [
+			"Lodge",
+			"House",
+			"Shelter"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "develop",
+		"related": [
+			"Grow",
+			"Evolve",
+			"Mature"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "awkward",
+		"related": [
+			"difficult",
+			"tricky",
+			"fiddly"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "bargain",
+		"related": [
+			"deal",
+			"contract",
+			"agreement"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "bruise",
+		"related": [
+			"mark",
+			"injury",
+			"contusion"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "category",
+		"related": [
+			"class",
+			"classification",
+			"group"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "vary",
+		"related": [
+			"change",
+			"alter",
+			"deviate"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "quiet",
+		"related": [
+			"still",
+			"calm",
+			"soft"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "originate",
+		"related": [
+			"start",
+			"develop",
+			"initiate"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "adaptable",
+		"related": [
+			"variable",
+			"flexible",
+			"pliable"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "recite",
+		"related": [
+			"tell",
+			"recount",
+			"narrate"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "slippery",
+		"related": [
+			"slick",
+			"tricky",
+			"slimy"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "business",
+		"related": [
+			"line",
+			"concern",
+			"patronage"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "impulse",
+		"related": [
+			"urge",
+			"whim",
+			"caprice"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "recognize",
+		"related": [
+			"know",
+			"discern",
+			"acknowledge"
+		],
+		"alt_spelling": "recognise",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "invention",
+		"related": [
+			"design",
+			"innovation",
+			"conception"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "agreeable",
+		"related": [
+			"consistent",
+			"compatible",
+			"congenial"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "convince",
+		"related": [
+			"turn",
+			"convert",
+			"win over"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "impeach",
+		"related": [
+			"indict",
+			"charge",
+			"accuse"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "complete",
+		"related": [
+			"utter",
+			"total",
+			"absolute"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "counsel",
+		"related": [
+			"advice",
+			"guidance",
+			"direction"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "nourish",
+		"related": [
+			"feed",
+			"sustain",
+			"maintain"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "conspire",
+		"related": [
+			"plot",
+			"scheme",
+			"plan"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "scared",
+		"related": [
+			"frightened",
+			"afraid",
+			"fearful"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "digestion",
+		"related": [
+			"dissolution",
+			"assimilation",
+			"absorption"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "poignant",
+		"related": [
+			"touching",
+			"moving",
+			"sad"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "saturate",
+		"related": [
+			"soak",
+			"drench",
+			"waterlog"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "scandalous",
+		"related": [
+			"discreditable",
+			"disreputable",
+			"dishonourable"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "accidental",
+		"related": [
+			"fortuitous",
+			"chance",
+			"coincidental"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "adamant",
+		"related": [
+			"unshakeable",
+			"immovable",
+			"inflexible"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "reminiscent",
+		"related": [
+			"evocative",
+			"similar",
+			"remindful"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "malicious",
+		"related": [
+			"bitter",
+			"catty",
+			"despiteful"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "spectacular",
+		"related": [
+			"amazing",
+			"astonishing",
+			"astounding"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "Crooked",
+		"related": [
+			"Bent",
+			"Twisted",
+			"Zigzag"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "Delicious",
+		"related": [
+			"Savory",
+			"Delectable",
+			"Appetizing"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "Mischievous",
+		"related": [
+			"Prankish",
+			"Waggish",
+			"Impish"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "Predicament",
+		"related": [
+			"Quandary",
+			"Dilemma",
+			"Plight"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "coherent",
+		"related": [
+			"tenacious",
+			"logical",
+			"ordered"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "initiate",
+		"related": [
+			"originate",
+			"start",
+			"begin"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "impossible",
+		"related": [
+			"inconceivable",
+			"unimaginable",
+			"insufferable"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "therapeutic",
+		"related": [
+			"curative",
+			"cure",
+			"healing"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "squeamish",
+		"related": [
+			"dainty",
+			"overnice",
+			"prissy"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "voyage",
+		"related": [
+			"sail",
+			"ocean trip",
+			"journey"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "materialistic",
+		"related": [
+			"worldly",
+			"consumerist",
+			"capitalistic"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "opposite",
+		"related": [
+			"reverse",
+			"contrary",
+			"inverse"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "quirky",
+		"related": [
+			"far",
+			"offbeat",
+			"way-out"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "grandiose",
+		"related": [
+			"magnificent",
+			"impressive",
+			"imposing"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "efficacious",
+		"related": [
+			"successful",
+			"productive",
+			"constructive"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "itchy",
+		"related": [
+			"scratchy",
+			"fretful",
+			"restless"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "ambiguous",
+		"related": [
+			"cryptic",
+			"unclear",
+			"vague"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "contradict",
+		"related": [
+			"negate",
+			"oppose"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "maddening",
+		"related": [
+			"exasperating",
+			"infuriating",
+			"irritating"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "delirious",
+		"related": [
+			"excited",
+			"mad",
+			"unrestrained"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "exultant",
+		"related": [
+			"prideful",
+			"rejoicing",
+			"triumphal"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "cumbersome",
+		"related": [
+			"clumsy",
+			"unwieldy",
+			"unmanageable"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "channel",
+		"related": [
+			"line",
+			"duct",
+			"transfer"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "possessive",
+		"related": [
+			"proprietorial",
+			"overprotective",
+			"clinging"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "convene",
+		"related": [
+			"summon",
+			"call",
+			"meet"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "sterilize",
+		"related": [
+			"disinfect",
+			"purify",
+			"sanitize"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "stupendous",
+		"related": [
+			"amazing",
+			"astounding",
+			"astonishing"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "skillful",
+		"related": [
+			"expert",
+			"practiced",
+			"proficient"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "fanatical",
+		"related": [
+			"zealous",
+			"extremist",
+			"radical"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "subdued",
+		"related": [
+			"hushed",
+			"muted",
+			"quiet"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "surround",
+		"related": [
+			"skirt",
+			"encircle",
+			"smother"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "delicious",
+		"related": [
+			"tasty",
+			"toothsome",
+			"yummy"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "government",
+		"related": [
+			"authorities",
+			"regime",
+			"administration"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "defective",
+		"related": [
+			"faulty",
+			"flawed",
+			"imperfect"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "gruesome",
+		"related": [
+			"ghastly",
+			"grisly",
+			"macabre"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "shirk",
+		"related": [
+			"evade",
+			"dodge",
+			"avoid"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "luxuriant",
+		"related": [
+			"lush",
+			"rich",
+			"abundant"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "obsolete",
+		"related": [
+			"outdated",
+			"disused",
+			"antiquated"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "aggressive",
+		"related": [
+			"hostile",
+			"belligerent",
+			"confrontational"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "obscene",
+		"related": [
+			"lewd",
+			"detestable",
+			"repulsive"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "sweltering",
+		"related": [
+			"hot",
+			"stifling",
+			"suffocating"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "paltry",
+		"related": [
+			"measly",
+			"negligible",
+			"trifling"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "belligerent",
+		"related": [
+			"fighting",
+			"warring",
+			"combatant"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "apparatus",
+		"related": [
+			"equipment",
+			"gear",
+			"gadgetry"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "squealing",
+		"related": [
+			"screech",
+			"scream",
+			"shriek"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "salvage",
+		"related": [
+			"rescue",
+			"save",
+			"recover"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "conscious",
+		"related": [
+			"aware",
+			"awake",
+			"sentient"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "committee",
+		"related": [
+			"assembly",
+			"body",
+			"congress"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "disastrous",
+		"related": [
+			"fateful",
+			"catastrophic",
+			"ravaging"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "squalid",
+		"related": [
+			"dirty",
+			"filthy",
+			"grubby"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "colossal",
+		"related": [
+			"huge",
+			"massive",
+			"enormous"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "disillusioned",
+		"related": [
+			"disenchanted",
+			"disappointed",
+			"discouraged"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "oceanic",
+		"related": [
+			"marine",
+			"maritime",
+			"pelagic"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "fantastic",
+		"related": [
+			"marvelous",
+			"tremendous",
+			"wonderful"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "fairies",
+		"related": [
+			"sprite",
+			"pixie",
+			"elf"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "parsimonious",
+		"related": [
+			"miserly",
+			"ungenerous",
+			"frugal"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "spurious",
+		"related": [
+			"bogus",
+			"fake",
+			"false&#39;"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "embarrassed",
+		"related": [
+			"humiliated",
+			"discomfited",
+			"abashed"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "suggestion",
+		"related": [
+			"proposition",
+			"prompting",
+			"hint"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "arithmetic",
+		"related": [
+			"calculation",
+			"computation",
+			"calculus"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "diligent",
+		"related": [
+			"industrious",
+			"hard-working",
+			"particular"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "conscientious",
+		"related": [
+			"diligent",
+			"industrious",
+			"dedicated"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "abridge",
+		"related": [
+			"shorten",
+			"cut",
+			"lessen"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "abrogate",
+		"related": [
+			"revoke",
+			"repeal",
+			"overturn"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "rescind",
+		"related": [
+			"revoke",
+			"repeal",
+			"cancel"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "abscess",
+		"related": [
+			"cyst",
+			"boil",
+			"blister"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "acerbate",
+		"related": [
+			"aggravate",
+			"annoy",
+			"disturb"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "adrenaline",
+		"related": [
+			"rush",
+			"anxiety",
+			"stress"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "ambidextrous",
+		"related": [
+			"expert",
+			"masterful",
+			"multitalented"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "ambience",
+		"related": [
+			"atmosphere",
+			"air",
+			"aura"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "anchorage",
+		"related": [
+			"moorings",
+			"harbour",
+			"port"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "ancestry",
+		"related": [
+			"forefathers",
+			"lineage",
+			"origin"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "apiculture",
+		"related": [
+			"beekeeping"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "artistic",
+		"related": [
+			"creative",
+			"imaginative",
+			"inventive"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "arnica",
+		"related": [
+			"homeopathy",
+			"medicine",
+			"wolfsbane"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "augmentor",
+		"related": [
+			"boost",
+			"buildup",
+			"enlargement"
+		],
+		"alt_spelling": "augmenter",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "easel",
+		"related": [
+			"tripod",
+			"frame",
+			"mount"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "eclectic",
+		"related": [
+			"wide",
+			"broad",
+			"extensive"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "eccentric",
+		"related": [
+			"unconventional",
+			"uncommon",
+			"abnormal"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "wavelength",
+		"related": [
+			"judgment"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "violation",
+		"related": [
+			"contravention",
+			"breach",
+			"infringement"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "uproar",
+		"related": [
+			"turmoil",
+			"disorder",
+			"confusion"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "aggravate",
+		"related": [
+			"annoy",
+			"irritate",
+			"exasperate"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "agitation",
+		"related": [
+			"anxiety",
+			"perturbation",
+			"disquiet"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "albatross",
+		"related": [
+			"handicap",
+			"bird"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "alkaline",
+		"related": [
+			"salty",
+			"acrid"
+		],
+		"alt_spelling": "alkalin",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "alleged",
+		"related": [
+			"supposed",
+			"claimed"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "allegorical",
+		"related": [
+			"symbolic",
+			"metaphorical",
+			"figurative"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "allocation",
+		"related": [
+			"allotment",
+			"assignment",
+			"issuing"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "alliterate",
+		"related": [
+			"repetitive"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "antinome",
+		"related": [
+			"contradictory",
+			"opposite"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "Destroy",
+		"related": [
+			"ruin",
+			"demolish",
+			"raze"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "Crooked",
+		"related": [
+			"bent",
+			"twisted",
+			"curved"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "Dilemma",
+		"related": [
+			"quandary",
+			"problem",
+			"pickle"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "Dangerous",
+		"related": [
+			"perilous",
+			"hazardous",
+			"risky"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "Beautiful",
+		"related": [
+			"pretty",
+			"lovely",
+			"attractive"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "Interesting",
+		"related": [
+			"fascinating",
+			"engaging",
+			"sharp"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "Genuine",
+		"related": [
+			"authentic",
+			"real",
+			"actual"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "Awful",
+		"related": [
+			"dreadful",
+			"terrible",
+			"abominable"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "Abstract",
+		"related": [
+			"Theoretical",
+			"notional",
+			"intellectual"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "Arduous",
+		"related": [
+			"Hard",
+			"toilsome",
+			"Difficult"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "Baffling",
+		"related": [
+			"Puzzle",
+			"mistify",
+			"bemuse"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "Austere",
+		"related": [
+			"Strict",
+			"harsh",
+			"stern"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "Competence",
+		"related": [
+			"Capability",
+			"proficiency",
+			"ability"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "Parochial",
+		"related": [
+			"Conservative",
+			"insular",
+			"short-sighted"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "Moribund",
+		"related": [
+			"Inactive",
+			"stagnant",
+			"motionless"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "Ineptitude",
+		"related": [
+			"Inability",
+			"inefficacy",
+			"incompetence"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "Entrench",
+		"related": [
+			"Establish",
+			"ensconce",
+			"install"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "Contagion",
+		"related": [
+			"Infection",
+			"transmission",
+			"foulness"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "Cohort",
+		"related": [
+			"Partner",
+			"companion",
+			"comrade"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "Idiosyncrasy",
+		"related": [
+			"Mannerism",
+			"trait",
+			"eccentricity"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "Quibble",
+		"related": [
+			"Minor",
+			"criticism",
+			"trivial"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "Aghast",
+		"related": [
+			"Horrified",
+			"stunned",
+			"appalled"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "Accrue",
+		"related": [
+			"Collect",
+			"gather",
+			"amass"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "Muzzle",
+		"related": [
+			"Gag",
+			"suppress",
+			"restrain"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "Synergy",
+		"related": [
+			"Collaboration",
+			"cooperation",
+			"associations"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "Officious",
+		"related": [
+			"Over-bearing",
+			"high handed"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "Sumptuous",
+		"related": [
+			"Lavish",
+			"luxurious",
+			"palatial"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "Enthuse",
+		"related": [
+			"Motivate",
+			"encourage",
+			"inspire"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "Sanguine",
+		"related": [
+			"Hopeful",
+			"assured",
+			"positive"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "Fable",
+		"related": [
+			"moral",
+			"story",
+			"parable"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "Remit",
+		"related": [
+			"Orbit",
+			"ambit",
+			"jurisdiction"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "Salience",
+		"related": [
+			"prominence",
+			"eminence",
+			"distinction"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "Reckon",
+		"related": [
+			"Compute",
+			"Beleive",
+			"Figure"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "Ferment",
+		"related": [
+			"Tumult",
+			"uproar",
+			"mayhem"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "Mangled",
+		"related": [
+			"Mutilated",
+			"lacerated",
+			"maimed"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "Serpentine",
+		"related": [
+			"Winding",
+			"zigzag",
+			"meandering"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "Heyday",
+		"related": [
+			"Prime",
+			"zenith",
+			"acme"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "Inkling",
+		"related": [
+			"Clue",
+			"hunch",
+			"glimmering"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "Laugh",
+		"related": [
+			"Chuckle"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "Language",
+		"related": [
+			"tongue",
+			"speech"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "Management",
+		"related": [
+			"administration",
+			"care",
+			"charge"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "choir",
+		"related": [
+			"singers"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "combination",
+		"related": [
+			"merger",
+			"union",
+			"blend"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "concentration",
+		"related": [
+			"attentiveness",
+			"engrossed",
+			"focusing"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "contagious",
+		"related": [
+			"infectious",
+			"transmissible",
+			"transferable"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "coupon",
+		"related": [
+			"voucher",
+			"ticket",
+			"token"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "culture",
+		"related": [
+			"customs",
+			"tradition",
+			"heritage"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "demonstrate",
+		"related": [
+			"exhibit",
+			"display",
+			"show"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "cleanse",
+		"related": [
+			"purify",
+			"disinfect",
+			"wash"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "comfortable",
+		"related": [
+			"snug",
+			"restful",
+			"homely"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "concern",
+		"related": [
+			"worry",
+			"unsettle",
+			"distress"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "conversation",
+		"related": [
+			"talk",
+			"dialogue",
+			"chat"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "creative",
+		"related": [
+			"imaginative",
+			"innovative",
+			"original"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "curious",
+		"related": [
+			"inquisitive",
+			"analytical",
+			"interested"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "denominator",
+		"related": [
+			"divisor"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "community",
+		"related": [
+			"group",
+			"gang",
+			"association"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "connection",
+		"related": [
+			"link",
+			"relation",
+			"bond"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "cooperation",
+		"related": [
+			"unity",
+			"partnership",
+			"alliance"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "creature",
+		"related": [
+			"being",
+			"animal",
+			"organism"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "department",
+		"related": [
+			"section",
+			"unit",
+			"branch"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "complain",
+		"related": [
+			"protest",
+			"grumble",
+			"whine"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "constitution",
+		"related": [
+			"charter",
+			"laws",
+			"regulations"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "correct",
+		"related": [
+			"right",
+			"accurate",
+			"exact"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "crisis",
+		"related": [
+			"emergency",
+			"calamity",
+			"catastrophe"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "decision",
+		"related": [
+			"consclusion",
+			"resolve",
+			"verdict"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "emptiness",
+		"related": [
+			"blank",
+			"vacant",
+			"void"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "entrance",
+		"related": [
+			"door",
+			"gate",
+			"approach"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "establish",
+		"related": [
+			"start",
+			"institute",
+			"create"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "exercise",
+		"related": [
+			"effort",
+			"sport",
+			"gymnastics"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "faucet",
+		"related": [
+			"tap",
+			"valve",
+			"spout"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "forgetting",
+		"related": [
+			"overlook",
+			"neglect"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "frighten",
+		"related": [
+			"scare",
+			"startle",
+			"terrify"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "gaze",
+		"related": [
+			"stare",
+			"look",
+			"gape"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "grateful",
+		"related": [
+			"thankful",
+			"obliged",
+			"appreciative"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "hangar",
+		"related": [
+			"garage",
+			"shed"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "heroes",
+		"related": [
+			"champion",
+			"winner",
+			"warrior"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "hunger",
+		"related": [
+			"starve",
+			"appetite"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "immediate",
+		"related": [
+			"instant",
+			"prompt",
+			"quick"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "ingredient",
+		"related": [
+			"constituent",
+			"element",
+			"factor"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "instruction",
+		"related": [
+			"order",
+			"command",
+			"direction"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "invitation",
+		"related": [
+			"request",
+			"call",
+			"summons"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "knowledge",
+		"related": [
+			"grasp",
+			"comprehension",
+			"mastery"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "liberty",
+		"related": [
+			"freedom",
+			"autonomy",
+			"independence"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "location",
+		"related": [
+			"place",
+			"position",
+			"area"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "manor",
+		"related": [
+			"castle",
+			"estate",
+			"palace"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "medicine",
+		"related": [
+			"healing",
+			"treatment",
+			"cure"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "mistaken",
+		"related": [
+			"wrong",
+			"erroneous",
+			"incorrect"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "multiple",
+		"related": [
+			"numerous",
+			"various",
+			"collective"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "mute",
+		"related": [
+			"silent",
+			"speechless",
+			"dumb"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "noisy",
+		"related": [
+			"shouting",
+			"loud",
+			"cacophonous"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "obtain",
+		"related": [
+			"get",
+			"acquire",
+			"procure"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "original",
+		"related": [
+			"first",
+			"native",
+			"primary"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "patient",
+		"related": [
+			"tolerant",
+			"stoic",
+			"uncomplaining"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "performance",
+		"related": [
+			"show",
+			"production",
+			"staging"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "piano",
+		"related": [
+			"keyboard",
+			"instrument",
+			"music"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "policy",
+		"related": [
+			"plans",
+			"blueprint",
+			"scheme"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "encouragement",
+		"related": [
+			"cheering",
+			"uplifting",
+			"rallying"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "envelope",
+		"related": [
+			"cover",
+			"wrap",
+			"case"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "example",
+		"related": [
+			"specimen",
+			"instance"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "experience",
+		"related": [
+			"skills",
+			"proficiency",
+			"familiarity"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "fierce",
+		"related": [
+			"savage",
+			"ferocious",
+			"wild"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "forgiveness",
+		"related": [
+			"pardon",
+			"excuse",
+			"absolution"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "fuel",
+		"related": [
+			"petrol",
+			"propellant",
+			"charge"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "gesture",
+		"related": [
+			"sign",
+			"signal",
+			"indication"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "grief",
+		"related": [
+			"regret",
+			"sorrow",
+			"woe"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "hanger",
+		"related": [
+			"cupboard",
+			"hook"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "history",
+		"related": [
+			"record",
+			"archives",
+			"past"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "hyphen",
+		"related": [
+			"dash",
+			"comma",
+			"punctuation"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "importance",
+		"related": [
+			"significant",
+			"status",
+			"eminence"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "injury",
+		"related": [
+			"wound",
+			"bruise",
+			"cut"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "intermission",
+		"related": [
+			"break",
+			"pause",
+			"gap"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "involve",
+		"related": [
+			"engage",
+			"require",
+			"comprise"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "lawyer",
+		"related": [
+			"advocate",
+			"attorney",
+			"counsel"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "liquid",
+		"related": [
+			"wet",
+			"solution",
+			"flowing"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "luggage",
+		"related": [
+			"suitcase",
+			"handbag"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "marriage",
+		"related": [
+			"wedding",
+			"nuptials",
+			"union"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "mention",
+		"related": [
+			"broach",
+			"introduce",
+			"announcement"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "misunderstand",
+		"related": [
+			"confuse",
+			"confound",
+			"mistake"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "muscle",
+		"related": [
+			"strength",
+			"power",
+			"brawn"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "myth",
+		"related": [
+			"story",
+			"legend",
+			"tale"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "noticeable",
+		"related": [
+			"striking",
+			"apparent",
+			"distinct"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "occur",
+		"related": [
+			"happen",
+			"transpire",
+			"arise"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "outline",
+		"related": [
+			"silhouette",
+			"layout",
+			"tracing"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "penalty",
+		"related": [
+			"punishment",
+			"fine"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "personal",
+		"related": [
+			"private",
+			"individual",
+			"intimate"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "plumber",
+		"related": [
+			"handyman",
+			"pipe"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "pollute",
+		"related": [
+			"contaminate",
+			"adulterate",
+			"dirty"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "encyclopedia",
+		"related": [
+			"almanac",
+			"knowledge",
+			"compilation"
+		],
+		"alt_spelling": "encyclopaedia",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "equator",
+		"related": [
+			"latitute",
+			"circumference",
+			"middle"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "excellent",
+		"related": [
+			"superb",
+			"outstanding",
+			"brilliant"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "exterior",
+		"related": [
+			"outer",
+			"visible",
+			"superficial"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "fireproof",
+		"related": [
+			"incombustible",
+			"unburnable"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "fossil",
+		"related": [
+			"remnant",
+			"relic",
+			"skeleton"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "further",
+		"related": [
+			"far",
+			"additional",
+			"forward"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "governor",
+		"related": [
+			"ruler",
+			"administrator",
+			"leader"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "halves",
+		"related": [
+			"fraction",
+			"division",
+			"equal"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "happiness",
+		"related": [
+			"gaiety",
+			"joy",
+			"pleasure"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "honorable",
+		"related": [
+			"moral",
+			"ethical",
+			"righteous"
+		],
+		"alt_spelling": "honourable",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "ignore",
+		"related": [
+			"disregard",
+			"overlook"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "improvement",
+		"related": [
+			"advance",
+			"upgrade",
+			"develop"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "interview",
+		"related": [
+			"meeting",
+			"discussion",
+			"evaluation"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "jealous",
+		"related": [
+			"resentful",
+			"envy"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "league",
+		"related": [
+			"alliance",
+			"union",
+			"association"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "listening",
+		"related": [
+			"hear",
+			"heeding",
+			"attentive"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "manager",
+		"related": [
+			"head",
+			"boss",
+			"administrator"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "meant",
+		"related": [
+			"denoted",
+			"intended",
+			"signified"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "minus",
+		"related": [
+			"subtract",
+			"less",
+			"negative"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "mixture",
+		"related": [
+			"blend",
+			"combination",
+			"alloy"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "museum",
+		"related": [
+			"archives",
+			"collection",
+			"assemblage"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "nationality",
+		"related": [
+			"citizenship",
+			"country",
+			"tribe"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "novel",
+		"related": [
+			"book",
+			"story",
+			"narrative"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "official",
+		"related": [
+			"formal",
+			"ceremonial",
+			"proper"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "partial",
+		"related": [
+			"incomplete",
+			"biased",
+			"unfair"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "penguin",
+		"related": [
+			"antarctica",
+			"snow",
+			"polar"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "persuade",
+		"related": [
+			"coax",
+			"convince"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "poem",
+		"related": [
+			"verse",
+			"song",
+			"rhyme"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "entire",
+		"related": [
+			"whole",
+			"complete",
+			"total"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "especially",
+		"related": [
+			"mainly",
+			"particularly",
+			"distinctly"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "excitement",
+		"related": [
+			"elation",
+			"emotion",
+			"exhilaration"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "familiar",
+		"related": [
+			"close",
+			"near",
+			"dear"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "following",
+		"related": [
+			"backing",
+			"next",
+			"successive"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "freight",
+		"related": [
+			"cargo",
+			"load",
+			"shipment"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "gallon",
+		"related": [
+			"liquid",
+			"measure",
+			"pint"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "graduation",
+		"related": [
+			"convocation",
+			"alumnus",
+			"commencement"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "hamburger",
+		"related": [
+			"sandwich",
+			"patty"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "headache",
+		"related": [
+			"migraine",
+			"pain"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "horizon",
+		"related": [
+			"skyline",
+			"view",
+			"perspective"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "imagination",
+		"related": [
+			"envision",
+			"fascination"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "independence",
+		"related": [
+			"freedom",
+			"liberty",
+			"sovereignty"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "instead",
+		"related": [
+			"alternatively",
+			"rather",
+			"otherwise"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "invisible",
+		"related": [
+			"unnoticeable",
+			"disappear",
+			"concealed"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "junior",
+		"related": [
+			"younger",
+			"lower",
+			"minor"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "legal",
+		"related": [
+			"licit",
+			"legitimate",
+			"permitted"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "loaves",
+		"related": [
+			"bread",
+			"bun",
+			"slab"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "manner",
+		"related": [
+			"method",
+			"demeanour",
+			"mode"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "mechanic",
+		"related": [
+			"engineer",
+			"serviceman",
+			"technician"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "minute",
+		"related": [
+			"tiny",
+			"little",
+			"micro"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "mourn",
+		"related": [
+			"grieve",
+			"weep",
+			"agonize"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "musician",
+		"related": [
+			"performer",
+			"instrumentalist",
+			"maestro"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "negative",
+		"related": [
+			"pessimistic",
+			"bleak",
+			"minus"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "numerator",
+		"related": [
+			"division",
+			"denominator"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "operate",
+		"related": [
+			"steer",
+			"work",
+			"steer"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "passenger",
+		"related": [
+			"traveller",
+			"commuter",
+			"rider"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "percent",
+		"related": [
+			"proportion",
+			"chunk",
+			"ratio"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "physical",
+		"related": [
+			"bodily",
+			"solid",
+			"concrete"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "poet",
+		"related": [
+			"rhymist",
+			"lyricist",
+			"writer"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "positive",
+		"related": [
+			"constructive",
+			"productive",
+			"hopeful"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "absorption",
+		"related": [
+			"integration",
+			"immersion",
+			"osmosis"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "acquiesce",
+		"related": [
+			"permit",
+			"allow",
+			"accept"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "altercation",
+		"related": [
+			"argument",
+			"quarrel",
+			"squabble"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "animosity",
+		"related": [
+			"hostility",
+			"friction",
+			"enmity"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "austerity",
+		"related": [
+			"strictness",
+			"restraint",
+			"frugality"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "auxiliary",
+		"related": [
+			"extra",
+			"reserve",
+			"backup"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "bravado",
+		"related": [
+			"boldness",
+			"swagger",
+			"boasting"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "carburetor",
+		"related": [
+			"vehicle",
+			"spark",
+			"combustion"
+		],
+		"alt_spelling": "carburettor",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "cerebral",
+		"related": [
+			"analytical",
+			"intelligent",
+			"brainy"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "chasm",
+		"related": [
+			"gorge",
+			"abyss",
+			"crater"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "accompaniment",
+		"related": [
+			"backing",
+			"support",
+			"supplement"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "acquittal",
+		"related": [
+			"clearing",
+			"exoneration",
+			"release"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "ambassador",
+		"related": [
+			"envoy",
+			"diplomat",
+			"consul"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "authentic",
+		"related": [
+			"genuine",
+			"original",
+			"real"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "benevolent",
+		"related": [
+			"kind",
+			"gracious",
+			"tolerant"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "camouflage",
+		"related": [
+			"disguise",
+			"hide",
+			"conceal"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "cavalcade",
+		"related": [
+			"procession",
+			"parade",
+			"troop"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "chagrin",
+		"related": [
+			"annoyance",
+			"irritation",
+			"fury"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "chastise",
+		"related": [
+			"scold",
+			"berate",
+			"admonish"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "accomplice",
+		"related": [
+			"abetter",
+			"collaborator",
+			"associate"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "affiliation",
+		"related": [
+			"attaching",
+			"connecting",
+			"joining"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "approximately",
+		"related": [
+			"roughly",
+			"about",
+			"ballpark"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "authenticate",
+		"related": [
+			"verify",
+			"certify",
+			"prove"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "blasphemous",
+		"related": [
+			"profane",
+			"ungodly",
+			"unholy"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "capricious",
+		"related": [
+			"fickle",
+			"unstable",
+			"erratic"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "celestial",
+		"related": [
+			"heavenly",
+			"astronomical",
+			"divine"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "chaotic",
+		"related": [
+			"disorderly",
+			"haywire",
+			"confused"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "chronic",
+		"related": [
+			"persistent",
+			"incurable",
+			"frightful"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "picturesque",
+		"related": [
+			"pretty",
+			"attractive",
+			"scenic"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "poignancy",
+		"related": [
+			"misery",
+			"sadness",
+			"sorrow"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "prejudice",
+		"related": [
+			"bias",
+			"sway",
+			"influence"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "proximity",
+		"related": [
+			"closeness",
+			"nearness",
+			"presence"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "quizzical",
+		"related": [
+			"perplexed",
+			"puzzled",
+			"curious"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "reek",
+		"related": [
+			"stink",
+			"stench",
+			"smell"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "renegade",
+		"related": [
+			"traitor",
+			"defector",
+			"rebel"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "respite",
+		"related": [
+			"rest",
+			"break",
+			"halt"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "rococo",
+		"related": [
+			"showy",
+			"swanky",
+			"pretentious"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "satisfactorily",
+		"related": [
+			"acceptably",
+			"adequately",
+			"fine"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "scourge",
+		"related": [
+			"whip",
+			"lash",
+			"belt"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "pittance",
+		"related": [
+			"dribble",
+			"peanuts",
+			"dime"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "premonition",
+		"related": [
+			"foreboding",
+			"intuition",
+			"hunch"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "recipient",
+		"related": [
+			"giftee",
+			"beneficiary",
+			"awardee"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "relevancy",
+		"related": [
+			"bearing",
+			"applicability",
+			"pertinence"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "renovate",
+		"related": [
+			"restore",
+			"remodel",
+			"redecorate"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "retaliate",
+		"related": [
+			"respond",
+			"react",
+			"reply"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "sabotage",
+		"related": [
+			"wreck",
+			"destroy",
+			"disrupt"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "saunter",
+		"related": [
+			"stroll",
+			"amble",
+			"wander"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "scuttle",
+		"related": [
+			"dash",
+			"race",
+			"hurry"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "playwright",
+		"related": [
+			"dramatist",
+			"author",
+			"scenarist"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "potpourri",
+		"related": [
+			"assortment",
+			"mishmash",
+			"miscellany"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "primitive",
+		"related": [
+			"ancient",
+			"first",
+			"basic"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "quixotic",
+		"related": [
+			"idealistic",
+			"foolish",
+			"unrealistic"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "redundant",
+		"related": [
+			"unnecessary",
+			"inessential",
+			"needless"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "remembrance",
+		"related": [
+			"recall",
+			"memory",
+			"recollection"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "reservoir",
+		"related": [
+			"pool",
+			"lake",
+			"pond"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "retrieve",
+		"related": [
+			"recover",
+			"recoup",
+			"reclaim"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "salient",
+		"related": [
+			"important",
+			"main",
+			"primary"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "scavenger",
+		"related": [
+			"hunter",
+			"scrounger",
+			"forager"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "seethe",
+		"related": [
+			"boil",
+			"bubble",
+			"flare"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "intransigence",
+		"related": [
+			"steadfastness",
+			"tenacity"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "largesse",
+		"related": [
+			"generosity",
+			"liberality",
+			"bounty"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "myrrh",
+		"related": [
+			"bitter",
+			"pungent",
+			"incense"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "neurosis",
+		"related": [
+			"abnormality",
+			"lunacy",
+			"insanity"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "opacity",
+		"related": [
+			"clouded",
+			"muddy",
+			"darkness"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "parallelogram",
+		"related": [
+			"quadrilateral",
+			"rectangle",
+			"rhombus"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "perfunctory",
+		"related": [
+			"hasty",
+			"cursory",
+			"fleeting"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "recalcitrant",
+		"related": [
+			"uncooperative",
+			"insubordinate",
+			"defiant"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "disenfranchise",
+		"related": [
+			"disable",
+			"disempower",
+			"powerless"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "encyclical",
+		"related": [
+			"cicular",
+			"letter",
+			"official"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "gazpacho",
+		"related": [
+			"cold-soup"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "imperturbable",
+		"related": [
+			"composed",
+			"collected",
+			"calm"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "thievery",
+		"related": [
+			"stealing",
+			"burglary",
+			"robbery"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "troika",
+		"related": [
+			"triad",
+			"carriage",
+			"triple"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "virulent",
+		"related": [
+			"toxic",
+			"fatal",
+			"infective"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "kefir",
+		"related": [
+			"yoghurt",
+			"curd",
+			"buttermilk"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "lederhosen",
+		"related": [
+			"shorts",
+			"suspenders",
+			"trunks"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "narcissist",
+		"related": [
+			"egoist",
+			"conceited",
+			"self-centered"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "nunnery",
+		"related": [
+			"convent",
+			"monastery",
+			"abbey"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "pegmatite",
+		"related": [
+			"rock",
+			"coarse"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "pertinacious",
+		"related": [
+			"determined",
+			"tenacious",
+			"persistent"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "restaurateur",
+		"related": [
+			"innkeeper",
+			"barman",
+			"chef"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "sobriquet",
+		"related": [
+			"alias",
+			"byname",
+			"moniker"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "echelon",
+		"related": [
+			"rank",
+			"level",
+			"tier"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "fallacious",
+		"related": [
+			"erroneous",
+			"wrong",
+			"incorrect"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "gazetteer",
+		"related": [
+			"journalist",
+			"publicist"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "incontrovertible",
+		"related": [
+			"indisputable",
+			"undeniable",
+			"irrefutable"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "tremolo",
+		"related": [
+			"vibration",
+			"shaking",
+			"quivering"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "vociferous",
+		"related": [
+			"vehement",
+			"outspoken",
+			"forthright"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "lintel",
+		"related": [
+			"girder",
+			"pillar",
+			"pole"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "neckerchief",
+		"related": [
+			"scarf",
+			"bandanna"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "obdurate",
+		"related": [
+			"stubborn",
+			"inflexible",
+			"unbending"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "operetta",
+		"related": [
+			"comic",
+			"short-film"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "pejorative",
+		"related": [
+			"derogatory",
+			"defamatory",
+			"slanderous"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "piscatorial",
+		"related": [
+			"fishlike",
+			"fishing"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "reticular",
+		"related": [
+			"puzzling",
+			"complicated",
+			"perplexing"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "surreptitiously",
+		"related": [
+			"secretively",
+			"sneakily",
+			"stealthily"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "filibuster",
+		"related": [
+			"procrastination",
+			"stonewalling",
+			"delaying"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "gimmicky",
+		"related": [
+			"current",
+			"trendy",
+			"in-vogue"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "incredulously",
+		"related": [
+			"jealous",
+			"leery",
+			"mistrustful"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "trichinosis",
+		"related": [
+			"parasite",
+			"disease"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "unconscionable",
+		"related": [
+			"unethical",
+			"amoral",
+			"unscrupulous"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "zoophyte",
+		"related": [
+			"plant-like",
+			"invertebrate"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "kuchen",
+		"related": [
+			"cake",
+			"tart"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "modicum",
+		"related": [
+			"speck",
+			"iota",
+			"fraction"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "neophyte",
+		"related": [
+			"beginner",
+			"learner",
+			"novice"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "obstetrician",
+		"related": [
+			"gynaecologist",
+			"doctor",
+			"midwife"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "oxymoron",
+		"related": [
+			"contradiction",
+			"dichotomy",
+			"conflict"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "penumbra",
+		"related": [
+			"shadow",
+			"dark",
+			"cover"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "rampageous",
+		"related": [
+			"agitated",
+			"fierce",
+			"intense"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "sacrilegious",
+		"related": [
+			"profane",
+			"sinful",
+			"irreverent"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "sycophantic",
+		"related": [
+			"servile",
+			"subservient",
+			"slimy"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "emigrant",
+		"related": [
+			"immigrant",
+			"expatriate",
+			"foreigner"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "fungible",
+		"related": [
+			"convertible",
+			"commutable",
+			"substitutive"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "ignominy",
+		"related": [
+			"disgrace",
+			"dishonour",
+			"infamy"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "indomitable",
+		"related": [
+			"invincible",
+			"unbeatable",
+			"unshakeable"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "tripartite",
+		"related": [
+			"trilateral",
+			"threefold",
+			"three-way"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "unpronounceable",
+		"related": [
+			"unutterable",
+			"unsayable"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "odd",
+		"related": [
+			"strange",
+			"peculiar",
+			"weird"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "felt",
+		"related": [
+			"sense",
+			"detect",
+			"perceive"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "gold",
+		"related": [
+			"auric",
+			"gilded",
+			"aureate"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "aunt",
+		"related": [
+			"uncle",
+			"relative"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "zero",
+		"related": [
+			"nought",
+			"nothing",
+			"nil"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "visit",
+		"related": [
+			"appointment",
+			"stopover"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "sharp",
+		"related": [
+			"edged",
+			"cutting",
+			"piercing"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "paste",
+		"related": [
+			"pulp",
+			"mush",
+			"blend"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "earth",
+		"related": [
+			"world",
+			"globe",
+			"planet"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "giant",
+		"related": [
+			"mammoth",
+			"massive",
+			"huge"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "cottage",
+		"related": [
+			"cabin",
+			"shack",
+			"hut"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "decide",
+		"related": [
+			"determine",
+			"resolve"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "gasoline",
+		"related": [
+			"diesel",
+			"fuel",
+			"petrol"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "cancel",
+		"related": [
+			"scrap",
+			"drop",
+			"nix"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "slumber",
+		"related": [
+			"sleep",
+			"doze",
+			"nap"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "graceful",
+		"related": [
+			"stylish",
+			"tasteful",
+			"elegant"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "continue",
+		"related": [
+			"resume",
+			"pursue",
+			"recommence"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "noise",
+		"related": [
+			"sound",
+			"racket",
+			"commotion"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "zoo",
+		"related": [
+			"menagerie",
+			"wildlife",
+			"animals"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "gain",
+		"related": [
+			"profit",
+			"benefit",
+			"reward"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "path",
+		"related": [
+			"track",
+			"trail",
+			"walk"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "self",
+		"related": [
+			"identity",
+			"character",
+			"persona"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "world",
+		"related": [
+			"earth",
+			"globe",
+			"planet"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "cheer",
+		"related": [
+			"motivate",
+			"hurrah",
+			"glee"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "sink",
+		"related": [
+			"descend",
+			"drown",
+			"drop"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "animal",
+		"related": [
+			"beast",
+			"creature",
+			"fauna"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "fever",
+		"related": [
+			"ailment",
+			"disease",
+			"temperature"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "degree",
+		"related": [
+			"level",
+			"stage",
+			"measure"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "couch",
+		"related": [
+			"sofa",
+			"settee",
+			"divan"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "camera",
+		"related": [
+			"lens",
+			"shuttee",
+			"flash"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "fruit",
+		"related": [
+			"berry",
+			"mango",
+			"apple"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "newscast",
+		"related": [
+			"announcement",
+			"reporter",
+			"anchor"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "usual",
+		"related": [
+			"customary",
+			"typical",
+			"routine"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "pioneer",
+		"related": [
+			"discoverer",
+			"begin",
+			"launch"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "urge",
+		"related": [
+			"desire",
+			"wish",
+			"longing"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "terrible",
+		"related": [
+			"awful",
+			"atrocious",
+			"appalling"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "alive",
+		"related": [
+			"active",
+			"conscious"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "dawn",
+		"related": [
+			"daybreak",
+			"sunrise",
+			"beginning"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "safe",
+		"related": [
+			"shielded",
+			"sheltered",
+			"cautious"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "tuna",
+		"related": [
+			"lobster",
+			"shrimp",
+			"fish"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "wait",
+		"related": [
+			"delay",
+			"linger",
+			"pause"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "jaw",
+		"related": [
+			"bone",
+			"mouth"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "twice",
+		"related": [
+			"double",
+			"twofold",
+			"again"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "chicken",
+		"related": [
+			"poultry",
+			"bird"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "follow",
+		"related": [
+			"obey",
+			"note",
+			"go-along"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "useful",
+		"related": [
+			"practical",
+			"functional",
+			"handy"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "evening",
+		"related": [
+			"night",
+			"dusk",
+			"sundown"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "garden",
+		"related": [
+			"lawn",
+			"park",
+			"flowers"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "fleece",
+		"related": [
+			"cheat",
+			"trick",
+			"dupe"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "remind",
+		"related": [
+			"prompt",
+			"memory"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "alert",
+		"related": [
+			"aware",
+			"attentive",
+			"warn"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "striving",
+		"related": [
+			"trying",
+			"attempt"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "curl",
+		"related": [
+			"wrap",
+			"twist"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "dear",
+		"related": [
+			"loved",
+			"close"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "roof",
+		"related": [
+			"top",
+			"ceiling",
+			"cover"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "few",
+		"related": [
+			"little",
+			"less"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "uncle",
+		"related": [
+			"family",
+			"elder",
+			"chips"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "paper",
+		"related": [
+			"write",
+			"pen"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "middle",
+		"related": [
+			"central",
+			"between"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "banana",
+		"related": [
+			"fruit",
+			"peel"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "crow",
+		"related": [
+			"caw",
+			"bird",
+			"black"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "zebra",
+		"related": [
+			"horse",
+			"stripes",
+			"Africa"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "crumb",
+		"related": [
+			"bread",
+			"particle",
+			"speck"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "copying",
+		"related": [
+			"duplicate",
+			"xerox",
+			"cheat"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "select",
+		"related": [
+			"choose",
+			"pick"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "pour",
+		"related": [
+			"flow",
+			"spill",
+			"fill"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "chimney",
+		"related": [
+			"smoke",
+			"fireplace"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "stretch",
+		"related": [
+			"extend",
+			"straighten"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "surprise",
+		"related": [
+			"shock",
+			"astonish"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "state",
+		"related": [
+			"condition",
+			"country",
+			"say"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "soil",
+		"related": [
+			"earth",
+			"dirt",
+			"ground"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "agreed",
+		"related": [
+			"yes",
+			"accept"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "length",
+		"related": [
+			"distance",
+			"stretch"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "happily",
+		"related": [
+			"joyfully",
+			"cheerily"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "permit",
+		"related": [
+			"allow",
+			"let",
+			"grant"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "notice",
+		"related": [
+			"observe",
+			"board",
+			"announcement"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "understood",
+		"related": [
+			"know",
+			"accept",
+			"realize"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "carefully",
+		"related": [
+			"drive",
+			"safely"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "different",
+		"related": [
+			"unlike",
+			"distinct"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "express",
+		"related": [
+			"show",
+			"fast",
+			"train"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "pleasure",
+		"related": [
+			"joy",
+			"delight",
+			"glee"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "message",
+		"related": [
+			"news",
+			"note",
+			"WhatsApp"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "except",
+		"related": [
+			"but",
+			"omitting"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "suitcase",
+		"related": [
+			"luggage",
+			"bag"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "repay",
+		"related": [
+			"refund",
+			"return"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "shelter",
+		"related": [
+			"cover",
+			"shade",
+			"refuge"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "constant",
+		"related": [
+			"steady",
+			"continuous"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "melody",
+		"related": [
+			"tune",
+			"music"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "details",
+		"related": [
+			"specifics",
+			"facts",
+			"particular"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "rarely",
+		"related": [
+			"hardly",
+			"seldom",
+			"infrequently"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "pause",
+		"related": [
+			"wait",
+			"delay",
+			"hesitate"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "women",
+		"related": [
+			"ladies",
+			"girls"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "captain",
+		"related": [
+			"leader",
+			"team",
+			"skipper"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "thoughtful",
+		"related": [
+			"attentive",
+			"caring"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "probably",
+		"related": [
+			"likely",
+			"possibly"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "section",
+		"related": [
+			"part",
+			"piece",
+			"segment"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "laughter",
+		"related": [
+			"giggle",
+			"chuckle",
+			"happy"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "squeeze",
+		"related": [
+			"press",
+			"crush"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "grasp",
+		"related": [
+			"hold",
+			"grip"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "rising",
+		"related": [
+			"revolt",
+			"increasing"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "forward",
+		"related": [
+			"ahead",
+			"onward",
+			"progress"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "exact",
+		"related": [
+			"precise",
+			"correct"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "paid",
+		"related": [
+			"money",
+			"reward"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "solve",
+		"related": [
+			"answer",
+			"problem"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "warn",
+		"related": [
+			"alert",
+			"inform",
+			"tell"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "enjoyment",
+		"related": [
+			"pleasure",
+			"entertainment"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "mammal",
+		"related": [
+			"animal",
+			"babies"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "numeral",
+		"related": [
+			"integer",
+			"digit"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "actor",
+		"related": [
+			"performer",
+			"theatre"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "island",
+		"related": [
+			"beach",
+			"ocean",
+			"Hawaii"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "southern",
+		"related": [
+			"direction"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "trail",
+		"related": [
+			"line",
+			"stream",
+			"hiking"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "daytime",
+		"related": [
+			"sunlight",
+			"morning"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "include",
+		"related": [
+			"contain",
+			"enter"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "music",
+		"related": [
+			"sound",
+			"melody",
+			"tune"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "quietly",
+		"related": [
+			"silently"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "puzzle",
+		"related": [
+			"confuse",
+			"logic",
+			"solve"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "action",
+		"related": [
+			"work",
+			"activity",
+			"movie"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "equation",
+		"related": [
+			"calculation",
+			"maths",
+			"chemical"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "dessert",
+		"related": [
+			"pudding",
+			"sweet"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "stomach",
+		"related": [
+			"belly",
+			"digest",
+			"tummy"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "neither",
+		"related": [
+			"none"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "annual",
+		"related": [
+			"yearly"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "inventor",
+		"related": [
+			"creator",
+			"innovator"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "receive",
+		"related": [
+			"collect",
+			"accept",
+			"get"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "type",
+		"related": [
+			"kind",
+			"variety"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "members",
+		"related": [
+			"part",
+			"club"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "human",
+		"related": [
+			"person",
+			"mortal"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "perhaps",
+		"related": [
+			"maybe",
+			"possibly"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "single",
+		"related": [
+			"one",
+			"sole"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "trouble",
+		"related": [
+			"problem",
+			"issues"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "yesterday",
+		"related": [
+			"today",
+			"tomorrow"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "determine",
+		"related": [
+			"decide",
+			"establish"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "favorite",
+		"related": [
+			"special",
+			"preferred",
+			"ideal"
+		],
+		"alt_spelling": "favourite",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "pattern",
+		"related": [
+			"design",
+			"decoration",
+			"motif"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "million",
+		"related": [
+			"lakhs"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "beginning",
+		"related": [
+			"start",
+			"onset",
+			"launch"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "journey",
+		"related": [
+			"trip",
+			"tour",
+			"voyage"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "protection",
+		"related": [
+			"defence",
+			"shield",
+			"security"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "abandon",
+		"related": [
+			"desert",
+			"leave"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "absorb",
+		"related": [
+			"soak"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "accomplishment",
+		"related": [
+			"deed",
+			"act"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "adequate",
+		"related": [
+			"sufficient",
+			"enough",
+			"ample"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "advice",
+		"related": [
+			"counsel",
+			"guidance"
+		],
+		"alt_spelling": "advise",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "alternative",
+		"related": [
+			"other",
+			"another",
+			"second"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "ancestor",
+		"related": [
+			"forefather",
+			"predecessor"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "assistance",
+		"related": [
+			"help",
+			"aid"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "attendance",
+		"related": [
+			"appearance",
+			"presence"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "baggage",
+		"related": [
+			"suitcases",
+			"bags"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "biscuit",
+		"related": [
+			"wafer",
+			"cookie"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "bouquet",
+		"related": [
+			"flowers",
+			"wreath"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "bureau",
+		"related": [
+			"desk",
+			"firm"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "capable",
+		"related": [
+			"competent",
+			"able"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "celery",
+		"related": [
+			"vegetable",
+			"healthy"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "rotten",
+		"related": [
+			"decayed",
+			"bad",
+			"spoiled"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "secretary",
+		"related": [
+			"assistant",
+			"typist"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "sincerely",
+		"related": [
+			"genuinely",
+			"honestly",
+			"really"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "spacious",
+		"related": [
+			"roomy",
+			"airy",
+			"big"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "statistics",
+		"related": [
+			"data",
+			"analytics"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "supervisor",
+		"related": [
+			"director",
+			"manager",
+			"overseer"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "tongue",
+		"related": [
+			"taste",
+			"mouth",
+			"conversation"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "transferred",
+		"related": [
+			"shifted",
+			"moved"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "traveling",
+		"related": [
+			"moving"
+		],
+		"alt_spelling": "travelling",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "unnecessary",
+		"related": [
+			"needless"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "version",
+		"related": [
+			"model",
+			"variety"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "wealthy",
+		"related": [
+			"rich",
+			"affluent"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "abbreviation",
+		"related": [
+			"short"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "abundant",
+		"related": [
+			"plentiful",
+			"ample",
+			"lots"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "accurate",
+		"related": [
+			"exact",
+			"correct",
+			"precise"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "adjustable",
+		"related": [
+			"variable",
+			"convertible",
+			"adaptable"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "jubilee",
+		"related": [
+			"celebration",
+			"anniversary"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "amusement",
+		"related": [
+			"enjoyment",
+			"fun",
+			"pleasure"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "anniversary",
+		"related": [
+			"yearly",
+			"jubilee"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "association",
+		"related": [
+			"alliance",
+			"connection",
+			"relationship"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "authority",
+		"related": [
+			"command",
+			"power",
+			"jurisdiction"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "benefited",
+		"related": [
+			"gain",
+			"profit"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "bizarre",
+		"related": [
+			"odd",
+			"strange",
+			"peculiar"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "brilliant",
+		"related": [
+			"dazzling",
+			"genius",
+			"gifted"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "campaign",
+		"related": [
+			"struggle",
+			"effort",
+			"crusade"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "capital",
+		"related": [
+			"city",
+			"money",
+			"assets"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "cemetery",
+		"related": [
+			"graveyard",
+			"burial"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "sandwich",
+		"related": [
+			"bread",
+			"picnic"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "securing",
+		"related": [
+			"fix",
+			"attach",
+			"fasten"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "sincerity",
+		"related": [
+			"honesty",
+			"truthfulness"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "smudge",
+		"related": [
+			"streak",
+			"mark",
+			"dirty"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "specific",
+		"related": [
+			"particular",
+			"certain"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "subscription",
+		"related": [
+			"contribution",
+			"offering"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "supposedly",
+		"related": [
+			"evidently",
+			"apparently"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "tournament",
+		"related": [
+			"contest",
+			"series"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "transferring",
+		"related": [
+			"moving",
+			"shifting"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "unfortunately",
+		"related": [
+			"regrettably",
+			"sadly"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "valuable",
+		"related": [
+			"treasure",
+			"important",
+			"expensive"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "vertical",
+		"related": [
+			"standing",
+			"upright"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "visualize",
+		"related": [
+			"envision",
+			"envisage"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "weapon",
+		"related": [
+			"arms",
+			"munition",
+			"gun"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "absence",
+		"related": [
+			"vacation",
+			"leave"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "accessible",
+		"related": [
+			"attainable",
+			"reachable"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "achievement",
+		"related": [
+			"winning",
+			"accomplishment"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "admit",
+		"related": [
+			"confess",
+			"acknowledge"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "analysis",
+		"related": [
+			"investigation",
+			"inspection",
+			"scan"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "appreciate",
+		"related": [
+			"respect",
+			"value",
+			"cherish"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "athlete",
+		"related": [
+			"player",
+			"sportsperson"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "bacteria",
+		"related": [
+			"microbes",
+			"germs"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "benefiting",
+		"related": [
+			"gain",
+			"profit"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "boulevard",
+		"related": [
+			"road",
+			"street"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "brochure",
+		"related": [
+			"pamphlet",
+			"booklet",
+			"prospectus"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "cancellation",
+		"related": [
+			"&#34;reversal",
+			"&#34;",
+			"&#34;revocation"
+		],
+		"alt_spelling": "&#34;",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "suspension",
+		"Difficulty": ""
+	},
+	{
+		"Word": "capitol",
+		"related": [
+			"building",
+			"legislature"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 10
+	},
+	{
+		"Word": "changeable",
+		"related": [
+			"varying",
+			"irregular"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "scarcity",
+		"related": [
+			"shortage",
+			"dearth",
+			"lack"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "significance",
+		"related": [
+			"importance",
+			"magnitude"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "situation",
+		"related": [
+			"circumstances",
+			"state",
+			"condition"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "solemn",
+		"related": [
+			"sincere",
+			"earnest",
+			"honest"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "stationary",
+		"related": [
+			"parked",
+			"halted",
+			"stopped"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "substitute",
+		"related": [
+			"replacement",
+			"proxy",
+			"reserve"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "threatening",
+		"related": [
+			"menacing",
+			"intimidating",
+			"bullying"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "tragedy",
+		"related": [
+			"disaster",
+			"calamity",
+			"catastrophe"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "transmitted",
+		"related": [
+			"communicate",
+			"convey",
+			"impart"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "uniform",
+		"related": [
+			"same",
+			"steady",
+			"dress"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "various",
+		"related": [
+			"numerous",
+			"many",
+			"several"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "victim",
+		"related": [
+			"casualty",
+			"sufferer"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "volcano",
+		"related": [
+			"lava",
+			"erruption"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "wheeze",
+		"related": [
+			"gasp",
+			"pant",
+			"cough"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "absolutely",
+		"related": [
+			"completely",
+			"totally",
+			"utterly"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "accompanied",
+		"related": [
+			"partnered",
+			"with",
+			"followed"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "acres",
+		"related": [
+			"land",
+			"measurement",
+			"area"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "admittance",
+		"related": [
+			"entry",
+			"access"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "alternate",
+		"related": [
+			"other",
+			"substitute",
+			"rotate"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "analyze",
+		"related": [
+			"examine",
+			"inspect",
+			"survey"
+		],
+		"alt_spelling": "analyse",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "artificial",
+		"related": [
+			"unnatural",
+			"feigned"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "atmosphere",
+		"related": [
+			"air",
+			"ambience"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "bagel",
+		"related": [
+			"bread",
+			"toastie",
+			"muffin"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "bicycle",
+		"related": [
+			"pedal",
+			"bike"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "boundary",
+		"related": [
+			"border",
+			"limit"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "bulletin",
+		"related": [
+			"news",
+			"headlines"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "candidate",
+		"related": [
+			"applicant",
+			"contestant"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "chaperone",
+		"related": [
+			"companion",
+			"escort",
+			"protector"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "scenery",
+		"related": [
+			"landscape",
+			"painting",
+			"vista"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "simile",
+		"related": [
+			"analogy",
+			"comparison"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "skeptical",
+		"related": [
+			"doubtful",
+			"mistrustful",
+			"cynical"
+		],
+		"alt_spelling": "sceptical",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "souvenir",
+		"related": [
+			"token",
+			"remembrance",
+			"memorabilia"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "stationery",
+		"related": [
+			"pen",
+			"paper"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "superintendent",
+		"related": [
+			"director",
+			"boss",
+			"head"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "tolerate",
+		"related": [
+			"authorize",
+			"permit",
+			"allow"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "traitor",
+		"related": [
+			"defector",
+			"deserter"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "traveled",
+		"related": [
+			"progress",
+			"proceed"
+		],
+		"alt_spelling": "travelled",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "university",
+		"related": [
+			"college",
+			"academy",
+			"institute"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "vehicle",
+		"related": [
+			"automobile",
+			"car",
+			"bike"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "vigorously",
+		"related": [
+			"strongly",
+			"powerfully"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "wilderness",
+		"related": [
+			"jungle",
+			"forest"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 7
+	},
+	{
+		"Word": "college",
+		"related": [
+			"institute",
+			"university"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "hotel",
+		"related": [
+			"inn",
+			"lodge"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "contest",
+		"related": [
+			"tournament",
+			"match",
+			"competition"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "population",
+		"related": [
+			"people",
+			"residents",
+			"public"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "muffin",
+		"related": [
+			"cupcake",
+			"bakery",
+			"sweet"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "hollow",
+		"related": [
+			"empty",
+			"void",
+			"vacant"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "transport",
+		"related": [
+			"move",
+			"shift",
+			"take"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "reptile",
+		"related": [
+			"lizard",
+			"snake",
+			"crocodile"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "fresh",
+		"related": [
+			"latest",
+			"new"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "illegal",
+		"related": [
+			"unlawful",
+			"criminal"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "basin",
+		"related": [
+			"bowl",
+			"dip",
+			"sink"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "slavery",
+		"related": [
+			"bondage",
+			"forced"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "heaven",
+		"related": [
+			"paradise",
+			"nirvana"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "region",
+		"related": [
+			"area",
+			"locality",
+			"part"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "nutrients",
+		"related": [
+			"food",
+			"health",
+			"vitamins"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "catch",
+		"related": [
+			"grab",
+			"grip",
+			"pluck"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "yourself",
+		"related": [
+			"identity",
+			"person"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "prime",
+		"related": [
+			"key",
+			"main",
+			"minister"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "compose",
+		"related": [
+			"create",
+			"write",
+			"poem"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "character",
+		"related": [
+			"personality",
+			"nature",
+			"role"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "queen",
+		"related": [
+			"crown",
+			"monarch",
+			"Elizabeth"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "cotton",
+		"related": [
+			"thread",
+			"fabric"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "inaccurate",
+		"related": [
+			"wrong",
+			"erroneous",
+			"faulty"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "potato",
+		"related": [
+			"spud",
+			"wedges"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "bay",
+		"related": [
+			"gulf",
+			"sea"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "bridge",
+		"related": [
+			"flyover",
+			"cross"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "fingers",
+		"related": [
+			"index",
+			"ring",
+			"thumb"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "lower",
+		"related": [
+			"bottom",
+			"beneath"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "vowel",
+		"related": [
+			"alphabet",
+			"sounds"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "special",
+		"related": [
+			"exceptional",
+			"notable",
+			"outstanding"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "owner",
+		"related": [
+			"holder",
+			"landlord"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "robot",
+		"related": [
+			"droid",
+			"machine",
+			"automation"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "chameleon",
+		"related": [
+			"lizard",
+			"acrobat",
+			"opportunist"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "electricity",
+		"related": [
+			"power",
+			"energy",
+			"current"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "parallel",
+		"related": [
+			"aligned",
+			"side by side"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "chapel",
+		"related": [
+			"abbey",
+			"cathedral",
+			"shrine"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "engineer",
+		"related": [
+			"builder",
+			"developer",
+			"creator"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "astronomy",
+		"related": [
+			"stargazing"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "tunnel",
+		"related": [
+			"burrow",
+			"hole",
+			"underpass"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "piece",
+		"related": [
+			"slice",
+			"section",
+			"bit"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "appliance",
+		"related": [
+			"instrument",
+			"machine",
+			"device"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 5
+	},
+	{
+		"Word": "universe",
+		"related": [
+			"cosmos",
+			"(outer) space"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "oval",
+		"related": [
+			"egg-shaped"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "ounce",
+		"related": [
+			"bit",
+			"scrap",
+			"particle"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "umbrella",
+		"related": [
+			"sunshade"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "order",
+		"related": [
+			"arrangement",
+			"organization",
+			"sequence"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "factory",
+		"related": [
+			"plant",
+			"works"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "whom",
+		"related": [
+			"person"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "toward",
+		"related": [
+			"movement",
+			"approach"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "alone",
+		"related": [
+			"solo",
+			"single"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "bridal",
+		"related": [
+			"matrimonial",
+			"marriage",
+			"wedding"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "knight",
+		"related": [
+			"horseman",
+			"gallant"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 9
+	},
+	{
+		"Word": "duet",
+		"related": [
+			"couple",
+			"song"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "thrive",
+		"related": [
+			"flourish",
+			"prosper",
+			"arrive"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "bother",
+		"related": [
+			"trouble",
+			"effort",
+			"mind"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "cells",
+		"related": [
+			"prison",
+			"nucleus"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "pumpkin",
+		"related": [
+			"fruit",
+			"halloween",
+			"gourd"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "import",
+		"related": [
+			"ship",
+			"source"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "dental",
+		"related": [
+			"orthodonture",
+			"teeth"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "private",
+		"related": [
+			"individual",
+			"personal"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "publish",
+		"related": [
+			"produce",
+			"bring out",
+			"issue"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "organism",
+		"related": [
+			"animal",
+			"creature",
+			"being"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "storage",
+		"related": [
+			"depository",
+			"depot",
+			"repository"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 4
+	},
+	{
+		"Word": "continuous",
+		"related": [
+			"constant",
+			"uninterrupted",
+			"unbroken"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "innumerable",
+		"related": [
+			"numerous",
+			"countless",
+			"numberless"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "berserk",
+		"related": [
+			"insane",
+			"crazy",
+			"mad"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "deficiency",
+		"related": [
+			"shortage",
+			"lack",
+			"insufficiency"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "mesmerize",
+		"related": [
+			"bedazzle",
+			"enthrall",
+			"enchant"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "abstain",
+		"related": [
+			"decline",
+			"refuse",
+			"reject"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "meteor",
+		"related": [
+			"shooting-star",
+			"asteroid",
+			"comet"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "nostalgia",
+		"related": [
+			"recollection",
+			"remembrance"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "tyranny",
+		"related": [
+			"dictatorship",
+			"autocracy",
+			"oppression"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "incidentally",
+		"related": [
+			"fluke",
+			"chance"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "villain",
+		"related": [
+			"baddie",
+			"brute",
+			"evildoer"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "forgery",
+		"related": [
+			"falsification",
+			"faking",
+			"counterfeiting"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "obesity",
+		"related": [
+			"fatness",
+			"heaviness"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "caricature",
+		"related": [
+			"cartoon",
+			"parody"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "glamorous",
+		"related": [
+			"elegant",
+			"attractive",
+			"beautiful"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "asthma",
+		"related": [
+			"choking",
+			"gasping"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "subtlety",
+		"related": [
+			"delicacy",
+			"understatement",
+			"softness"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "misdemeanor",
+		"related": [
+			"wrongdoing",
+			"felony",
+			"crime"
+		],
+		"alt_spelling": "misdemeanour",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "interrogate",
+		"related": [
+			"question",
+			"probe",
+			"examine"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "gymnasium",
+		"related": [
+			"exercise",
+			"treadmill"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "escalator",
+		"related": [
+			"stairway",
+			"lift"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "bankruptcy",
+		"related": [
+			"failure",
+			"insolvency",
+			"liquidation"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "hazardous",
+		"related": [
+			"unsafe",
+			"risky",
+			"dangerous"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "intermittent",
+		"related": [
+			"fitful",
+			"irregular",
+			"sporadic"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "vaccinate",
+		"related": [
+			"immunize",
+			"inject",
+			"inoculate"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "internally",
+		"related": [
+			"inside",
+			"within"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 6
+	},
+	{
+		"Word": "apostrophe",
+		"related": [
+			"footnote",
+			"punctuation",
+			"detour"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "antiseptic",
+		"related": [
+			"medicated",
+			"sterile",
+			"disinfectant"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	},
+	{
+		"Word": "colleague",
+		"related": [
+			"workmate",
+			"teammate",
+			"coworker"
+		],
+		"alt_spelling": "",
+		"attempts": 0,
+		"correct": 0,
+		"WrongSpelling": "",
+		"Difficulty": 8
+	}
+]

@@ -1,0 +1,186 @@
+.SB_Main {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+.SB_Inner {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.start-btn {
+  font-size: 18px !important;
+  margin: 2% 0 0 0;
+  text-decoration: none;
+}
+.spellBeeHeader {
+  padding: 2% 4%;
+  min-height: 6vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.mainButton {
+  background-color: #ccf900 !important;
+  color: #666666 !important;
+  /* font-family: 'Montserrat', sans-serif !important; */
+  font-weight: 600 !important;
+  text-decoration: none;
+}
+.letsGo {
+  padding: 10px 25px !important;
+  font-size: 15px !important;
+  box-shadow: 5px 5px 7px #80808094 !important;
+  font-style: italic;
+}
+.Btn-sm {
+  padding: 5px 10px !important;
+  font-size: 14px !important;
+  box-shadow: 5px 5px 7px #80808094 !important;
+}
+
+.iconButtonContainer {
+  color: #ccf900;
+  width: 45px;
+  height: 45px;
+  background-color: #3a3a3a;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px #80808063;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.mainBtn {
+  font-size: 42px !important;
+  padding: 19px !important;
+}
+.mainBtnSmall {
+  font-size: 42px !important;
+  padding: 7px !important;
+}
+.iconButton:active,
+.iconButtonContainer:active {
+  transform: scale(1.1);
+}
+@media only screen and (min-width: 500px) {
+  .attemptsContainer {
+    left: 3vw !important;
+  }
+}
+
+
+.speech-bubble {
+	position: relative;
+  margin-top: 12px;
+}
+.speech-bubble:after {
+	border: 15px solid transparent;
+	border-bottom-color: #3a3a3a;
+	content: '';
+	margin-left: -1em;
+	position: absolute;
+	top: -29px;
+	left:10%;
+}
+
+
+.simple-keyboard {
+  max-width: 850px;
+}
+
+/*
+  Theme: myTheme1
+*/
+.simple-keyboard.myTheme1 {
+  border-radius: 0;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.simple-keyboard.myTheme1 .hg-button {
+  height: 7vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+}
+
+.simple-keyboard.myTheme1 .hg-button:active {
+  background: rgba(204,249,0,0.5);
+  color: black;
+}
+
+#root .simple-keyboard.myTheme1 + .simple-keyboard-preview {
+  background: rgba(204,249,0,0.5);
+}
+
+/* mcq keyboard */
+.mcq-keyboard {
+  list-style-type: none;
+  margin: 0 6px;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.mcq-keyboard li {
+  float: center;
+  margin: 0 5px 0 0;
+  width: 100%;
+  height: 36px;
+  position: relative;
+  box-shadow: 0 0 3px -1px rgb(0 0 0 / 30%);
+  border: 1px solid #b5b5b5;
+  border-radius: 5px;
+}
+
+.mcq-keyboard label,
+.mcq-keyboard input {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.mcq-keyboard input[type="radio"] {
+  opacity: 0;
+  z-index: 100;
+}
+
+.mcq-keyboard input[type="radio"]:checked+label,
+.Checked+label {
+  background: rgba(204,249,0,0.5);
+}
+
+.mcq-keyboard label {
+  padding: 5px;
+  cursor: pointer;
+  z-index: 90;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* 
+.mcq-keyboard label:hover {
+  background: #DDD;
+} */
+/* mcq keyboard */
+
+.gameTextContainer {
+  /* display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%; */
+}
+
+/* * {
+  border: 1px solid red;
+} */

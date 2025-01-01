@@ -1,0 +1,41 @@
+html
+  head
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+  body
+    div(style='display: flex; flex-direction: row; justify-content: flex-start; font-family: Montserrat, sans-serif;')
+      div(style='height:80px; width:80px;')
+        img(src=logoBinary, width='80px', height='80px')
+      div(style='height:80px; width: 100%; background-color: #ccf900;')
+        h2(style='margin:20px;') #{title1} | #{title2} | #{title3}
+    div(style='padding: 40px 90px; font-size: 16px;')
+      p Hi #{name},
+      br
+      p
+        | Here is a list of the questions you attempted today with your responses.
+        br
+        br
+        | Do look up the ones you missed, we hope you get to learn something new today. 
+        br
+        br
+        | Keep learning!
+        br
+        Team Maidaan
+
+    div(style='padding: 20px 30px')
+        table(style='width: 100% font-family: Montserrat, sans-serif;')
+            tr(style="background: #ccf900; font-size: 16px")
+                th Jumbled String
+                th Your Response
+                th Answer
+                th Result
+                th Solution
+
+            each val, index in response
+                tr(style='text-align:center; padding: 10px; font-size: 14px')
+                    td #{val.jumbledString}
+                    td #{val.response}
+                    td #{val.answer}
+                    td #{val.result}
+                    td #{val.hint}

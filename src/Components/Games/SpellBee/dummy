@@ -1,0 +1,152 @@
+import React, { useState, useEffect } from 'react';
+import SwiperCore, { Navigation, Pagination, Scrollbar, A11y } from 'swiper';
+import { Swiper, SwiperSlide } from 'swiper/react';
+import 'swiper/swiper-bundle.css';
+import axios from "axios";
+import { ReactComponent as DollarSvg } from "../../../assets/icons/dollar.svg";
+import AppRadio from "../../Common/AppRadio";
+import { getCoinsAfterDiscount } from "../../../Constants/Commons";
+import { useAuth } from "../../../providers/auth-provider";
+import { INSTRUMENTATION_TYPES } from "../../../instrumentation/types";
+import { useNavigate } from "react-router-dom";
+import { MEASURE } from "../../../instrumentation";
+let   multiplier = 1;
+
+SwiperCore.use([Navigation, Pagination, Scrollbar, A11y]);
+
+
+const TournamentCard = ({ backgroundImage, startTime, action, actionname }) => {
+    let displaybutton = true;
+    if (actionname === '') {
+      displaybutton = false;
+    }
+    let displaytimer = false;
+    let differenceInSeconds ;
+    
+    if (startTime !== null && startTime!= "") {
+        displaytimer = true;
+    const now = new Date();
+
+    const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+    const [hours, minutes] = startTime.split(':');
+    const startTimeDate = new Date(today.setHours(hours, minutes));
+  
+    const differenceInMilliseconds = startTimeDate - now;
+
+     differenceInSeconds = Math.floor(differenceInMilliseconds / 1000);
+    }
+    return (
+      <div
+        style={{
+          backgroundImage: `url(${backgroundImage})`,
+          backgroundSize: 'cover',
+          backgroundPosition: 'center',
+          height:'100%',
+          borderRadius:'10px'
+        }}
+      >
+        {displaytimer?(
+        <CountdownTimer timeLeft={differenceInSeconds}  />
+        ):null}
+        {displaybutton ? (
+          <button className="play-button" onClick={action}>
+            {actionname}
+          </button>
+        ) : null}
+      </div>
+    );
+  };
+
+
+
+const SecondaryActionCaurosel = ({ listOfBanners, renderBanner,backgroundImage,startTime,action ,actionname }) => {
+    
+    return (
+        <Swiper
+        spaceBetween={20}
+        //slidesPerView={1.7}
+        navigation={false}
+        style={{ height: '17vh' }} 
+        breakpoints={{
+            700: {
+              //slidesPerView: 2,
+              spaceBetween: 30,
+            },
+          }}
+      >
+            <SwiperSlide  style={{
+             display: 'flex', flexDirection: 'column',
+             overflow:'hidden',borderRadius:'10px',
+            }}>
+            <TournamentCard backgroundImage={backgroundImage} startTime={startTime} action={action} actionname={actionname}/>
+            </SwiperSlide>
+            {listOfBanners.map((banner, index) => (
+
+            <SwiperSlide key={index} style={{overflow:'hidden',borderRadius:'10px'}}>
+            {/*<img src={banner} alt={`Banner ${index + 1}`} style={{ width: '100%', height: '100%', objectFit: 'cover' }} />*/}
+            <img
+            src={banner}
+            alt={`Banner ${index + 1}`}
+            style={{
+              width: '100%',
+              height: '100%',
+              objectFit: 'cover',    
+              objectPosition: 'center center', 
+            }}
+          />
+          </SwiperSlide>
+        ))}
+        </Swiper>
+    );
+};
+
+
+const TertiaryActionCaurosel = ({ topFiveRewards, renderRewardItem }) => {
+    
+    return (
+        <Swiper
+            spaceBetween={20}
+            slidesPerView={1.8}
+            breakpoints={{
+                700: {
+                  slidesPerView: 2.2,
+                },
+              }}
+        >
+            {topFiveRewards.map((reward, index) => (
+                <SwiperSlide key={index}  /*onClick={()=>{console.log('clicked')}}*/>
+                    {renderRewardItem(reward)}
+                </SwiperSlide>
+            ))}
+        </Swiper>
+    );
+};
+
+
+const NewLobby = () => {
+   //primaryCardBanner
+    
+    
+    return (
+        // <div style={{ background: `url(${background})`, backgroundSize: 'cover', color: 'white' }}>
+        // <div style={{ background: `url(${background})`, color: 'white' }}>
+        <div style={{  display: "flex", flexDirection: "column", color: 'white', margin:'0px' }}>
+           
+            <div style={{ width: "100vw",  padding:'15px 5vw 15px 5vw', height:'84vh',overflowY: 'auto',overflowX: 'hidden', justifyContent: "space-center"}  }>
+               
+              
+                <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'space-between', marginTop: '30px', marginBottom: '30px',fontSize: `${12*multiplier}px` }}>
+                    <label style={{ marginBottom: '10px' }}>Upcoming Tournaments</label>
+                <SecondaryActionCaurosel listOfBanners={listOfBanners} renderBanner={renderBanner} backgroundImage={secondaryTournamentBanner} startTime={secondaryStartTime} action={secondaryTournamentCallBack} actionname={secondaryActionName} />
+                </div>
+                {/*<Carousel bannerImages={listOfBanners} />*/}
+                <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'space-between', marginTop: '3vh', marginBottom: '3vh',fontSize: `${12*multiplier}px` }}>
+                    <label style={{ marginBottom: '10px' }}>Reward Store</label>
+                    <TertiaryActionCaurosel topFiveRewards={topFiveRewards} renderRewardItem={renderRewardItem} />
+                </div>
+            </div>
+        </div>
+    );
+};
+
+export default NewLobby;

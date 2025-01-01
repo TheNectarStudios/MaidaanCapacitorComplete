@@ -1,0 +1,82 @@
+doctype html
+html(lang="en")
+  head
+    meta(charset="UTF-8")
+    meta(name="viewport", content="width=device-width, initial-scale=1.0")
+    title Document
+    link(rel="stylesheet", href="https://fonts.googleapis.com/css2?family=Avenir:wght@400;700&display=swap")
+  body(style="margin: 0; padding: 0; margin-bottom: 0.8cm; font-family: Avenir, sans-serif;") 
+    div(style="background-color: #ccf900; display: flex; justify-content: space-between;")
+      img(src=logoBinary alt="logo" width="100cm" height="90cm" style="margin-top:0.3cm") 
+      div(style="text-align: right; margin-right: 0.5cm; margin-bottom:0.3cm") 
+        p 
+        |Level-Field Tech Pvt.
+        br
+        |43, Residency Road, Opp. Gateway Hotel, Bangalore, 560025
+        br
+        |CIN: U72200KA2022PTC166988
+        br
+        |E: contact@maidaan.app | M: +91-8618006284
+
+    h3(style="text-align: center; margin-top: 0.3cm;") TAX INVOICE
+    strong(style="margin-left: 0.5cm; margin-top: 0.8cm;") #{invoiceNumber}
+    div(style="margin-top: 0.8cm;")
+      p(style="display: inline-block;margin-left: 0.5cm")
+       strong LEVEL-FIELD TECH PRIVATE LIMITED
+       br
+       | 43, Residency Road, Opp Gateway Hotel
+       br
+       | Bangalore, Karnataka 560025
+       br
+       | GSTIN: 29AAFCL1977P1ZN
+       br
+       | PAN: AAFCL1977P
+      
+      p(style="float: right; margin-right: 0.5cm;")
+        <span style="font-weight: bold;">Invoice Date:</span> #{invoiceDate}
+
+    div(style="margin-left: 0.5cm; margin-top: 0.8cm;")
+      p
+       | Bill To
+       br
+       strong #{parentName}
+       br
+       | #{Address}
+       br
+       | #{City} #{Pin}
+    div(style="margin-left: 0.5cm; margin-top: 0.8cm;")
+      | Place of Supply: Karnataka (29)
+    table(style="border-collapse: collapse; width: 95.3%; margin-left: 0.5cm; margin-top: 0.8cm;")
+      thead
+        tr
+          th(style="border: 1px solid black;") #
+          th(style="border: 1px solid black;") Item &amp; Description
+          th(style="border: 1px solid black;") Qty
+          th(style="border: 1px solid black;") Rate
+          th(style="border: 1px solid black;") Amount
+      tbody
+        tr
+          td(style="border: 1px solid black;") 1
+          td(style="border: 1px solid black;") Maidaan - Premium Monthly
+            | Subscription SAC: 998314
+          td(style="border: 1px solid black;") #{monthsFromPlan}
+          td(style="border: 1px solid black;") INR 250.00
+          td(style="border: 1px solid black;") #{amount}
+
+    div(style="display: flex;justify-content: flex-end;margin-right:1.5cm;margin-top:0.5cm")
+      | Total Taxable Amount&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; INR #{totalTaxableAmount}
+      br
+      | IGST(18%)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;INR #{igstAmount}
+      br
+      | Total&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;INR #{totalAmount}
+     
+     
+    p(style="margin-right: 1.5cm; margin-top: 0.8cm;text-align:right") Total In Words: #{totalInWords}
+    
+    img(src=logoBinary, width="130cm", height="100cm", alt="", style="margin-left: 0.5cm;margin-top: 0.8cm;")
+    p(style="margin-top: 0.8cm;margin-left: 0.5cm;")
+      | Authorised Signatory
+      br
+      | For Level-Field Tech Private Limited
+
+      

@@ -1,0 +1,71 @@
+.LoginPage{
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+.loginPageImg{
+    height: 65%;
+    width: auto;
+    transform: translateX(-50%);
+    position: relative;
+    left: 50%;
+}
+.loginModal{
+    height: 44%;
+    width: 100%;
+    position: absolute;
+    background-color: #7F7F7F;
+    border-radius: 30px 30px 0 0;
+    bottom: 0;
+}
+.loginTitle {
+    padding: 15px 0;
+    text-align: center;
+    color: white;
+    font-style: italic;
+    font-size: calc(1vw + 15px);
+}
+
+@media only screen and (min-width: 680px) {
+    .loginModal {
+        height: 63%;
+        width: 30%;
+        position: absolute;
+        background-color: #7f7f7fd4;
+        border-radius: 10px;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    .loginPageImg {
+        height: auto;
+        width: 100%;
+    }
+    .loginTitle {
+        padding: 25px 0;
+        font-size: calc(0.5vw + 10px) !important;
+    }
+    .loginModal button{
+        font-size: calc(0.5vw + 10px) !important;
+    }   
+  }
+
+  @media only screen and (min-width: 680px) and (max-width: 1000px) {
+    .loginModal {
+        height: 63%;
+        width: 50%;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    .loginPageImg {
+        height: 100%;
+        width: auto;
+    }
+    .loginTitle {
+        font-size: calc(0.5vw + 10px) !important;
+    }
+    .loginModal button{
+        font-size: calc(0.5vw + 10px) !important;
+    }
+  }

@@ -1,0 +1,376 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: avenir;
+  src: url("../public/Assets/avenir.otf");
+}
+
+@font-face {
+  font-family: avenir-bold;
+  src: url("../public/Assets/avenir-bold.otf");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: avenir-heavy;
+  src: url("../public/Assets/avenir-medium.ttf");
+  font-weight: medium;
+}
+
+:root {
+ --app-height: 100%;
+}
+
+html, body {
+  margin: 0;
+  font-family: avenir;
+  font-weight: 500;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+/* Vertical screen */
+@media (max-aspect-ratio: 1/1) {
+  .banner-card {
+    height: 30vh;
+  }
+  .tournament-card {
+    height: 30vh;
+  }
+}
+
+/* Horizontal screen */
+@media (min-aspect-ratio: 1/1) { 
+  .banner-card {
+    height: 288px;
+  }
+  .tournament-card {
+    height: 307px;
+  }
+ 
+}
+
+.App {
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.App.light-bg {
+  background-image: url("../public/Assets/Images/pattern-light-desktop.svg");
+}
+
+.App.dark-bg {
+  background-image: url("../public/Assets/Images/bg-dark.png");
+}
+
+a {
+  text-decoration: none;
+}
+
+.select-content {
+  width: var(--radix-select-trigger-width);
+  max-height: var(--radix-select-content-available-height);
+}
+.privacy-policy-logo {
+    width: 25%;
+  }
+
+.privacy-policy-back-btn {
+  border: 1px solid black;
+  border-radius: 32px;
+  text-align: center;
+  font-size: 18px;
+  cursor: pointer;
+  padding: 12px 32px;
+  font-weight: bold;
+}
+
+@media (max-width: 700px) {
+  .privacy-policy-logo {
+    width: 40%;
+  }
+  .privacy-policy-back-btn {
+    font-size: 12px;
+  }
+}
+
+/* Scroll bar css */
+::-webkit-scrollbar {
+  background-color: transparent;
+  width: 4px;
+  height: 16px;
+  z-index: 999999;
+}
+
+/* background of the scrollbar except button or resizer */
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+/* scrollbar itself */
+::-webkit-scrollbar-thumb {
+  background-color: transparent;
+  border-radius:16px;
+  border:0px solid #fff;
+}
+
+/* set button(top and bottom of the scrollbar) */
+::-webkit-scrollbar-button {
+  display:none;
+}
+
+
+/* scrollbar when element is hovered */
+:hover::-webkit-scrollbar-thumb {
+  background-color: #a0a0a5;
+  /* border:4px solid #fff; */
+}
+
+/* scrollbar when scrollbar is hovered */
+::-webkit-scrollbar-thumb:hover {
+    background-color:#a0a0a5;
+    border:1px solid #f4f4f4
+}
+/* Scroll bar css */
+
+
+/* Customize website's scrollbar like Mac OS
+Not supports in Firefox and IE */
+.scrollbar {
+  overflow: overlay
+}
+
+/* total width */
+.scrollbar::-webkit-scrollbar {
+  background-color: rgba(0,0,0,0);
+  width: 4px;
+  height: 16px;
+  z-index: 999999;
+}
+
+/* background of the scrollbar except button or resizer */
+.scrollbar::-webkit-scrollbar-track {
+  background-color: rgba(0,0,0,0);
+}
+
+/* scrollbar itself */
+.scrollbar::-webkit-scrollbar-thumb {
+  background-color: rgba(0,0,0,0);
+  border-radius:16px;
+  border:0px solid #fff;
+}
+
+/* set button(top and bottom of the scrollbar) */
+.scrollbar::-webkit-scrollbar-button {
+  display:none;
+}
+
+
+/* scrollbar when element is hovered */
+.scrollbar:hover::-webkit-scrollbar-thumb {
+  background-color: #a0a0a5;
+  /* border:4px solid #fff; */
+}
+
+/* scrollbar when scrollbar is hovered */
+.scrollbar::-webkit-scrollbar-thumb:hover {
+    background-color:#a0a0a5;
+    border:1px solid #f4f4f4
+}
+
+/* Memory card game */
+
+.memory-game-board
+{
+  /* background-color: #3a3a3a; */
+  /* border-radius: 0.4rem; */
+  /* box-shadow: 1px 1px 3px #444; */
+  text-align: center;
+  color: #f5f5f5;
+}
+
+.memory-game-board h1
+{
+  margin: 0 0 0.7rem 0;
+}
+
+.board
+{
+  background-color: #9a9a9a;
+  border-radius: 0.2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.board__row
+{
+  display: flex;
+  font-size: 1.2rem;
+}
+
+.board__row:first-of-type
+{
+  padding-top: 0.2em;
+}
+
+.board__row:last-of-type
+{
+  padding-bottom: 0.2em;
+}
+
+.board__card
+{
+  align-items: center;
+  background-color: white;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: bold;
+  justify-content: center;
+  height: 4.2em;
+  margin: 0.2em;
+  transition: all 0.3s;
+  width: 4.2em;
+  user-select: none;
+}
+
+.board__card:first-of-type
+{
+  margin-left: 0.4em;
+}
+
+.board__card:last-of-type
+{
+  margin-right: 0.4em;
+}
+
+.board__card--active
+{
+  /* background-color: #ccf900; */
+  color: #3a3a3a !important;
+}
+
+.board__card--hidden
+{
+  color: white;
+  cursor: pointer;
+}
+
+.board_card--differentiate1 {
+  background-color: #626262;
+}
+
+.board_card--differentiate2 {
+  background-color: #f5f5f5;
+}
+
+
+.board__card--found
+{
+  /* background-color: #ccf900; */
+  color: #3a3a3a !important;
+}
+
+.board__card--found
+{
+  color: #999;
+}
+
+.Reset__button
+{
+  background-color: #167BD9;
+  border: 4px solid #167BD9;
+  border-radius: 0.2rem;
+  color: white;
+  font-size: 1.25rem;
+  margin-top: 1rem;
+  padding: 0.3em;
+  text-transform: uppercase;
+  transition: all 0.4s;
+  width: 100%;
+}
+
+.Reset__button:hover
+{
+  background-color: white;
+  border: 4px solid #167BD9;
+  color: #167BD9;
+  cursor: pointer;
+}
+
+.scoreboard
+{
+  display: flex;
+  justify-content: space-around;
+}
+
+.scoreboard p
+{
+  margin: 0 0 0.3em 0;
+}
+
+/* Memory card game */
+
+.box-shadow-3d {
+    box-shadow: 16px -14px 0px #4F6100,
+                15px -13px 0px #4F6100,
+                14px -12px 0px #4F6100,
+                13px -11px 0px #4F6100,
+                12px -10px 0px #4F6100,
+                11px -9px 0px #4F6100,
+                10px -8px 0px #4F6100,
+                9px -7px 0px #4F6100,
+                8px -6px 0px #4F6100,
+                7px -5px 0px #4F6100,
+                6px -4px 0px #4F6100,
+                5px -3px 0px #4F6100,
+                4px -2px 0px #4F6100,
+                3px -1px 0px #4F6100,
+                2px 0px 0px #4F6100;
+}
+
+
+.box-shadow-3d-you {
+    box-shadow: 16px -14px 0px #A3C700,
+                15px -13px 0px #A3C700,
+                14px -12px 0px #A3C700,
+                13px -11px 0px #A3C700,
+                12px -10px 0px #A3C700,
+                11px -9px 0px #A3C700,
+                10px -8px 0px #A3C700,
+                9px -7px 0px #A3C700,
+                8px -6px 0px #A3C700,
+                7px -5px 0px #A3C700,
+                6px -4px 0px #A3C700,
+                5px -3px 0px #A3C700,
+                4px -2px 0px #A3C700,
+                3px -1px 0px #A3C700,
+                2px 0px 0px #A3C700;
+}
+
+/* SkeletonLoader.css */
+
+.skeleton-loader {
+  height: 100%;
+  width: 100%;
+  background-size: 200% 100%;
+  animation: pulsation 1.5s infinite linear;
+}
+
+@keyframes pulsation {
+   to {
+    background-position-x: -200%;
+  }
+}
+
+.autocomplete-input input {
+  text-align: center;
+}

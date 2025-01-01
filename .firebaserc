@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "maidaan-dev",
+    "dev": "maidaan-dev",
+    "prod": "maidaan-921e1"
+  },
+  "targets": {},
+  "etags": {}
+}

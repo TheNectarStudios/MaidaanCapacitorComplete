@@ -1,0 +1,83 @@
+doctype html
+html(lang="en")
+  head
+    meta(charset="UTF-8")
+    meta(name="viewport", content="width=device-width, initial-scale=1.0")
+    title Document
+    link(rel="stylesheet", href="https://fonts.googleapis.com/css2?family=Avenir:wght@400;700&display=swap")
+  body(style="margin: 0; padding: 0; margin-bottom: 0.8cm; font-family: Avenir, sans-serif;") 
+    div
+      div(style="background-color: #cdf900; color: #7f7f7f; display: flex; justify-content: space-between; padding: 1rem; font-size: 1.25rem;")
+        img(src=logoBinary alt="logo" width="100cm" height="90cm") 
+        div(style="display: flex; flex-direction: column; text-align: end;")
+          span(style="font-weight: 600;") Level-Field Tech Pvt. Ltd.
+          span 43, Residency Road, Opp. Gateway Hotel, Bangalore, 560025
+          span CIN: U72200KA2022PTC166988
+          span E: contact@maidaan.app | M: +91-8618006284
+      div(style="padding: 1rem 2.5rem;")
+        div(style="text-align: center; font-size: 1.5rem; font-weight: 600;") TAX INVOICE
+        div(style="font-weight: 700; margin: 1.5rem 0;")
+          | #{invoiceNumber}
+        div(style="display: flex; justify-content: space-between;")
+          div(style="display: flex; flex-direction: column;")
+            span(style="font-weight: 600;") LEVEL-FIELD TECH PRIVATE LIMITED
+            span 43, Residency Road, Opp Gateway Hotel
+            span Bangalore, Karnataka – 560025
+            span GSTIN: 29AAFCL1977P1ZN
+            span PAN: AAFCL1977P
+          div(style="text-align: end;") Invoice Date: #{invoiceDate}
+        div(style="margin: 1.5rem 0;")
+          | Bill To
+          br
+          span(style="font-weight: 600;") #{parentName}
+          br
+          | GSTIN: N/A
+        div Place of Supply: Karnataka (29)
+        div(style="margin: 1.5rem 0;")
+          table(style="width: 100%; border-collapse: collapse;")
+            thead
+              th(style="border: 1px solid black;") #
+              th(style="border: 1px solid black;") Item & Description
+              th(style="border: 1px solid black;") Qty
+              th(style="border: 1px solid black;") Rate
+              th(style="border: 1px solid black;") Total
+              th(style="border: 1px solid black;") Discount
+              th(style="border: 1px solid black;") Amount
+            tbody
+              tr
+                td(style="border: 1px solid black; text-align: center;") 1
+                td(style="border: 1px solid black; text-align: center;") Maidaan – Monthly Subscription\nSAC: 998314
+                td(style="border: 1px solid black; text-align: center;") 1
+                td(style="border: 1px solid black; text-align: center;") INR 250
+                td(style="border: 1px solid black; text-align: center;") INR 250
+                td(style="border: 1px solid black; text-align: center;") INR 0
+                td(style="border: 1px solid black; text-align: center;") INR #{amount}
+        div(style="display: flex; flex-direction: column; width: 100%; align-items: flex-end; margin: 1.5rem 0;")
+          div(style="display: grid; grid-template-columns: auto auto;")
+            div Total taxable amount
+            div(style="padding-left: 1.5rem;") INR #{totalTaxableAmount}
+            div IGST(18%)
+            div(style="padding-left: 1.5rem;") INR #{igstAmount}
+            div Total
+            div(style="padding-left: 1.5rem;") INR #{totalAmount}
+          div Total In Words: Indian Rupee #{totalInWords}
+        div(style="display: flex; flex-direction: column; margin: 1.5rem 0;")
+          span(style="font-weight: 600;") REMITTANCE DETAILS
+          span Account Name: LEVEL FIELD TECH PRIVATE LIMITED
+          span Account Number: 054382064001
+          span IFSC: HSBC0110005
+          span MICR: 110039005
+          span Bank: HSBC, JMD Regent Square Gurgaon Mehrauli Road, DLF Phase 2, Gurgaon 122001
+        div(style="margin: 1.5rem 0;")
+          img(src=signature alt="signature" height="100%" width="150px") 
+        div
+          | Authorised Signatory
+          br
+          | For Level-Field Tech Private Limited
+        div(style="margin: 1.5rem 0;")
+          | Note: In case of NEFT / Bank deposit, please do mention the invoice number in your transaction narration
+          br
+          | Cheque has to be drawn in favour of "Level Field Tech Private Limited"
+
+
+          

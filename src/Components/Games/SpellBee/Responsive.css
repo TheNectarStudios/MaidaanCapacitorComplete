@@ -1,0 +1,73 @@
+/* button{
+    white-space: nowrap;
+    font-size: calc(1vw + 10px) !important
+} */
+input{
+    /* font-size: calc(1vw + 14px) !important; */
+}
+@media only screen and (max-height: 660px) {
+    .mainBtn {
+        font-size: 31px !important;
+        padding: 17px !important;
+    }
+    .iconButton {
+        font-size: 40px !important;
+        padding: 15px !important;
+    }
+    .timerContainer{
+        margin: 0 !important;
+    }
+    .value{
+        font-size: 30px !important;
+        font-weight: 600 !important;
+    }
+    .spellBeeBody{
+        height: 20vh !important;
+        padding: 0 !important;
+    }
+    .text{
+        font-size: 12px;
+    }
+    .letsGo {
+        padding: 7px 23px !important;
+        font-size: 13px !important;
+    }
+    .Btn-sm{
+        padding: 4px 10px !important;
+        font-size: 12px !important;
+    }
+  }
+  @media only screen and (max-height: 700px) {
+      .gameTextContainer {
+          /* transform: translateY(-20%); */
+      }
+      .gameTextContainer{
+        /* margin: 4vh auto !important; */
+      }
+}
+
+@media only screen and (min-width: 900px) {
+    .submitBtn{
+        margin: 0 !important;
+    }
+    .bottomButtons{
+        margin: 2vw auto !important;
+    }
+    /* .gameTextContainer{
+        transform: translateY(-25%);
+    } */
+}
+@media only screen and (max-width: 900px) {
+    .synonymList{
+        white-space: normal !important;
+        width: 80vw !important;
+        flex-wrap: wrap !important;
+        padding: 2.5vw 0.5vw !important;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .closeIcon {
+        font-size: calc(1vw + 20px) !important;
+    }
+}

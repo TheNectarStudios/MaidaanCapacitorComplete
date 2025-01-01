@@ -1,0 +1,36 @@
+html
+  head
+  body
+    div(style='display: flex; flex-direction: row; justify-content: flex-start;')
+      div(style='height:80px; width:80px;')
+        img(src=logoBinary, width='80px', height='80px')
+      div(style='height:80px; width: 100%; background-color: #ccf900;')
+        h2(style='margin:20px;') #{title1} | #{title2} | #{title3}
+    div(style='padding: 40px 90px; font-size: 18px;')
+      p Hi #{name},
+      br
+      p
+        | Here is a list of the questions you attempted today with your responses.
+        br
+        br
+        | Do look up the ones you missed, we hope you get to learn something new today. 
+        br
+        br
+        | Keep learning!
+        br
+        Team Maidaan
+
+    div(style='padding: 20px 80px; font-size: 16px; font-weight: bold')
+        table(style='width: 100%')
+            tr(style="background: #ccf900")
+                th(style="padding: 10px") S no.
+                th Word
+                th Your Response
+                th Result
+
+            each val, index in response
+                tr(style='text-align:center')
+                    td #{index+ 1}
+                    td #{val.question}
+                    td #{val.response}
+                    td #{val.result}

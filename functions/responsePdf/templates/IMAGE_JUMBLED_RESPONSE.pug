@@ -1,0 +1,41 @@
+html
+  head
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+  body
+    div(style='display: flex; flex-direction: row; justify-content: flex-start;')
+      div(style='height:80px; width:80px;')
+        img(src=logoBinary, width='80px', height='80px')
+      div(style='height:80px; width: 100%; background-color: #ccf900;')
+        h2(style='margin:20px;') #{title1} | #{title2} | #{title3}
+    div(style='padding: 40px 90px; font-size: 16px;')
+      p Hi #{name},
+      br
+      p
+        | Here is a list of the questions you attempted today with your responses.
+        br
+        br
+        | Do look up the ones you missed, we hope you get to learn something new today. 
+        br
+        br
+        | Keep learning!
+        br
+        Team Maidaan
+    div(style="display:flex; width: 100%; justify-content: center")
+      div(style='width: 50%; text-align: center;')
+        h3(style='padding: 10px;') YOUR RESPONSES
+
+    div(style='padding: 20px 80px; font-size: 14px;')
+        ul(style='list-style-type: none;')
+            each val, index in response
+              li(style='display: flex; gap: 60px; align-items: left; margin-top: 60px;')
+                  div
+                      p Attempt Number: #{index + 1}
+                      p Question: #{val.jumbledString.toUpperCase()}
+                      p Your Response: #{val.response.toUpperCase()}
+                      p Answer: #{val.answer.toUpperCase()}
+                      p Result: #{val.result}
+                      br
+                  div
+                      img(src=val.imageUrl, alt="question", style='height: 150px;')

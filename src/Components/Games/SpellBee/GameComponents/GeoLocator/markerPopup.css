@@ -1,0 +1,15 @@
+.custom-popup .leaflet-popup-content-wrapper {
+    background-color: #3a3a3a; 
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+  }
+  
+  .custom-popup .leaflet-popup-tip {
+    background-color: #3a3a3a;
+  }
+  
+  .custom-popup .leaflet-popup-close-button {
+    display: none;
+  }
+  
