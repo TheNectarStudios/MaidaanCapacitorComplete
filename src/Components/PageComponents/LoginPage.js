@@ -440,7 +440,7 @@ const LoginPage = ({isDemoGameInput = false}) => {
         </div>
 
         <ToastComponent />
-      </Layout>z
+      </Layout>
     );
 }
 
