@@ -10,7 +10,7 @@ const showNotification = (title, body) => {
   PushNotifications.createChannel({
     id: 'default',
     name: 'Default Channel',
-    importance: 5, // Max importance
+    importance: 5,
     visibility: 1,
     sound: 'default',
   });
