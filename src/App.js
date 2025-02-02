@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import './App.css';
-import { ThemeProvider, useTheme } from '@mui/material/styles';
+import { ThemeProvider } from '@mui/material/styles';
 import { red } from '@mui/material/colors';
 import Routers from './Components/Routers';
 import { createStore } from 'redux';
@@ -28,44 +28,25 @@ const firebaseConfig = {
   appId: "1:1012992519476:web:b662e0d9bdb3e5f56a0961",
   measurementId: "G-YLDW0TTPQT"
 };
-  
+
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
 
 function App() {
-  // Create Redux store
   const store = createStore(handleReducer);
 
-  // MUI Theme customization
-  const theme = useTheme({
-    palette: {
-      primary: {
-        main: red[500],
-      },
-      secondary: {
-        main: red[500],
-      },
-    },
-    typography: {
-      h1: { fontSize: 12, color: 'red' },
-      fontSize: 12,
-    },
-  });
-
   useEffect(() => {
-    // Mixpanel initialization
     mixpanel.init('de205a0aa382ce63f2ddae13ab9f89b4', {
       debug: true,
       track_pageview: "full-url",
       persistence: 'localStorage'
     });
 
-    // Handle app height recalculations on resize
     const appHeight = () => {
       calculateAppHeight();
     };
     window.addEventListener("resize", appHeight);
-    appHeight(); // initial height calculation
+    appHeight();
 
     return () => {
       window.removeEventListener("resize", appHeight);
@@ -73,33 +54,32 @@ function App() {
   }, []);
 
   useEffect(() => {
-    // Request Push Notification Permissions and initialize push notifications
     const initializePushNotifications = async () => {
       try {
-        const { receive } = await PushNotifications.requestPermissions();
-        if (receive === 'granted') {
-          await PushNotifications.register();
-
-          // Push notification events
-          PushNotifications.addListener('registration', (token) => {
-            console.log('Push notification token:', token.value);
-          });
-
-          PushNotifications.addListener('registrationError', (error) => {
-            console.error('Push notification registration error:', error);
-          });
-
-          PushNotifications.addListener('pushNotificationReceived', (notification) => {
-            console.log('Notification received:', notification);
-            alert(`Notification: ${notification.title} - ${notification.body}`);
-          });
-
-          PushNotifications.addListener('pushNotificationActionPerformed', (action) => {
-            console.log('Notification action performed:', action);
-          });
-        } else {
+        const permStatus = await PushNotifications.requestPermissions();
+        if (permStatus.receive !== 'granted') {
           console.error("Push notifications permission denied.");
+          return;
         }
+
+        await PushNotifications.register();
+
+        PushNotifications.addListener('registration', (token) => {
+          console.log('Push notification token:', token.value);
+        });
+
+        PushNotifications.addListener('registrationError', (error) => {
+          console.error('Push notification registration error:', error);
+        });
+
+        PushNotifications.addListener('pushNotificationReceived', (notification) => {
+          console.log('Notification received:', notification);
+          alert(`Notification: ${notification.title} - ${notification.body}`);
+        });
+
+        PushNotifications.addListener('pushNotificationActionPerformed', (action) => {
+          console.log('Notification action performed:', action);
+        });
       } catch (error) {
         console.error("Error initializing push notifications:", error);
       }
@@ -112,7 +92,16 @@ function App() {
     <Provider store={store}>
       <AuthProvider>
         <AppProvider>
-          <ThemeProvider theme={theme}>
+          <ThemeProvider theme={{
+            palette: {
+              primary: { main: red[500] },
+              secondary: { main: red[500] }
+            },
+            typography: {
+              h1: { fontSize: 12, color: 'red' },
+              fontSize: 12
+            }
+          }}>
             <AxiosInterceptor>
               <div className="App flex flex-col justify-center items-center">
                 <Routers />
