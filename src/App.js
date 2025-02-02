@@ -56,30 +56,39 @@ function App() {
   useEffect(() => {
     const initializePushNotifications = async () => {
       try {
+        // Request permissions for push notifications
         const permStatus = await PushNotifications.requestPermissions();
         if (permStatus.receive !== 'granted') {
           console.error("Push notifications permission denied.");
           return;
         }
 
+        // Register for push notifications
         await PushNotifications.register();
 
+        // Listen for registration event and get the device token
         PushNotifications.addListener('registration', (token) => {
           console.log('Push notification token:', token.value);
+          // Send this token to your backend to store it for sending notifications later
         });
 
+        // Handle registration errors
         PushNotifications.addListener('registrationError', (error) => {
           console.error('Push notification registration error:', error);
         });
 
+        // Handle push notification received in the foreground
         PushNotifications.addListener('pushNotificationReceived', (notification) => {
           console.log('Notification received:', notification);
+          // Optionally show a custom UI or toast instead of alert
           alert(`Notification: ${notification.title} - ${notification.body}`);
         });
 
+        // Handle notification action (e.g., when user taps on a notification)
         PushNotifications.addListener('pushNotificationActionPerformed', (action) => {
           console.log('Notification action performed:', action);
         });
+
       } catch (error) {
         console.error("Error initializing push notifications:", error);
       }

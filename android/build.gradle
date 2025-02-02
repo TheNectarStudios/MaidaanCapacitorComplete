@@ -1,35 +1,29 @@
-// Top-level build file where you can add configuration options common to all sub-projects/modules.
-
-
-plugins {
-    // Add the dependency for the Google services Gradle plugin
-    id("com.google.gms.google-services") version "4.4.2" apply false
-}
-
 buildscript {
-    
     repositories {
-        google()
+        google() 
         mavenCentral()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:8.2.1'
-        classpath 'com.google.gms:google-services:4.4.0'
-
-        // NOTE: Do not place your application dependencies here; they belong
-        // in the individual module build.gradle files
+        classpath 'com.android.tools.build:gradle:7.4.1'
+        classpath 'com.google.gms:google-services:4.3.15'
     }
 }
+
+apply plugin: 'com.android.application'
+apply plugin: 'com.google.gms.google-services'
 
 apply from: "variables.gradle"
 
 allprojects {
     repositories {
-        google()
+        google() 
         mavenCentral()
     }
 }
 
-task clean(type: Delete) {
-    delete rootProject.buildDir
+android {
+    compileSdkVersion 33 // Set the SDK version
+    defaultConfig {
+        // Your default config here
+    }
 }
