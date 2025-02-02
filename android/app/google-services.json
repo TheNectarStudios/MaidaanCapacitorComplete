@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "156700495826",
+    "project_id": "maidaan-a3ce0",
+    "storage_bucket": "maidaan-a3ce0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156700495826:android:94cd629cbb8f5d28c4420b",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWXX_B3a7qK3Qul0NDTgqhpZNM2hJPiuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
