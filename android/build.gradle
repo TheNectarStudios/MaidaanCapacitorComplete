@@ -4,7 +4,7 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:7.4.1'
+        classpath 'com.android.tools.build:gradle:8.1.0'
         classpath 'com.google.gms:google-services:4.3.15'
     }
 }
@@ -16,14 +16,20 @@ apply from: "variables.gradle"
 
 allprojects {
     repositories {
-        google() 
+        google()  
         mavenCentral()
     }
 }
 
 android {
+    namespace "com.example.maidaan" // 🔹 ADD THIS LINE (Replace with your actual package name)
     compileSdkVersion 33 // Set the SDK version
+
     defaultConfig {
-        // Your default config here
+        applicationId "com.example.maidaan" // Ensure this matches your package name
+        minSdkVersion 23
+        targetSdkVersion 33
+        versionCode 1
+        versionName "1.0"
     }
 }

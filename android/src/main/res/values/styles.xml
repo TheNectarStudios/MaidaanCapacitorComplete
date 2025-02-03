@@ -1,0 +1,19 @@
+<resources>
+    <!-- Custom attributes for AppTheme -->
+    <declare-styleable name="AppTheme">
+        <attr name="colorPrimary" format="color"/>
+        <attr name="colorPrimaryDark" format="color"/>
+        <attr name="colorAccent" format="color"/>
+        <attr name="windowActionBar" format="boolean"/>
+        <attr name="windowNoTitle" format="boolean"/>
+    </declare-styleable>
+
+    <!-- Updated App theme definition -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowActionBar">true</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>
